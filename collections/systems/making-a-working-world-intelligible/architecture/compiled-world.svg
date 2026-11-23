@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="875" viewBox="0 0 420 875" role="img" aria-labelledby="world-title world-desc">
+  <title id="world-title">From a workspace to connected applications</title>
+  <desc id="world-desc">A workspace and reusable packages feed the compiler. Its fixed generation configures the resident engine. Hosts call the engine through the SDK. Two-way connections run through ports, an application integration and a technical adapter to an application that keeps its own records.</desc>
+  <g fill="none" stroke="var(--color-ink, #292722)" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M100 80V102Q100 117 115 117H205 M320 80V102Q320 117 305 117H205V143"/>
+    <path d="M200 137L205 143L210 137"/>
+    <path d="M205 181V220 M200 214L205 220L210 214"/>
+    <path d="M205 271V371 M200 365L205 371L210 365"/>
+    <path d="M50 320V371 M45 365L50 371L55 365"/>
+    <path d="M82 394H140 M134 389L140 394L134 399"/>
+    <path d="M205 427V466 M200 433L205 427L210 433 M200 460L205 466L210 460"/>
+    <path d="M205 529V558 M200 535L205 529L210 535 M200 552L205 558L210 552"/>
+    <path d="M205 621V650 M200 627L205 621L210 627 M200 644L205 650L210 644"/>
+    <path d="M205 713V768 M200 719L205 713L210 719 M200 762L205 768L210 762"/>
+  </g>
+  <g fill="var(--color-ink, #292722)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="middle">
+    <g font-family="var(--world-type-display-family, sans-serif)" font-weight="600">
+      <text x="100" y="47">Workspace</text>
+      <text x="320" y="47">Packages</text>
+      <text x="205" y="170">Compiler</text>
+      <text x="205" y="246">Fixed generation</text>
+      <text x="50" y="308">Hosts</text>
+      <text x="50" y="402">SDK</text>
+      <text x="205" y="402">Resident</text>
+      <text x="205" y="491">Ports</text>
+      <text x="205" y="583">Application integration</text>
+      <text x="205" y="675">Technical adapter</text>
+      <text x="205" y="796">Application</text>
+    </g>
+    <text x="100" y="73">Declared world</text>
+    <text x="320" y="73">Reusable guidance</text>
+    <text x="224" y="313" text-anchor="start">Session's</text>
+    <text x="224" y="338" text-anchor="start">configuration</text>
+    <text x="205" y="516">Requests and results</text>
+    <text x="205" y="608">Meaning and read-back</text>
+    <text x="205" y="700">Transport or storage</text>
+    <text x="205" y="824">Keeps its own records</text>
+  </g>
+  <path d="M115 840H295" fill="none" stroke="var(--color-accent, #993e35)" stroke-width="2"/>
+</svg>

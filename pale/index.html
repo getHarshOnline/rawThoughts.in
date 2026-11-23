@@ -1,0 +1,1562 @@
+
+<!doctype html>
+
+<html lang="en" data-page-mode="product" data-footer-treatment="colophon">
+<head>
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+  <meta name="color-scheme" content="light dark">
+
+  
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f1eee6">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1d1513">
+  
+  <title>Pale</title>
+  <meta property="og:title" content="Pale">
+  <meta property="og:type" content="website">
+  
+  <meta name="description" content="Write your world once, and Pale compiles it into the permissions and context the coding tools you already use ask for at every step.">
+  <meta property="og:description" content="Write your world once, and Pale compiles it into the permissions and context the coding tools you already use ask for at every step.">
+  
+
+  <script>try{var s=window.localStorage,e=document.documentElement,m=s.getItem("color-mode"),r=s.getItem("motion-preference");if(m==="light"||m==="dark"||m==="system")e.setAttribute("data-mode",m);if(r==="reduce"||r==="allow")e.setAttribute("data-motion",r)}catch(x){}</script>
+
+  
+  <link rel="canonical" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;pale&#x2F;">
+  <meta property="og:url" content="https:&#x2F;&#x2F;rawthoughts.in&#x2F;pale&#x2F;">
+  
+  
+  <link rel="alternate" type="text&#x2F;markdown" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;pale&#x2F;index.md">
+  
+
+  
+    
+  <link rel="alternate" type="application&#x2F;atom+xml" title="Engineering without filters" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;feed.xml">
+    
+  <link rel="alternate" type="application&#x2F;feed+json" title="Engineering without filters" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;feed.json">
+    
+  <link rel="alternate" type="application&#x2F;rss+xml" title="Engineering without filters" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;rss.xml">
+    
+  
+
+  
+    
+  <link rel="icon" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;site-icon-placeholder.svg">
+    
+  
+  
+
+
+
+
+
+
+    
+    
+      
+    
+      
+    
+      
+  <meta name="tdm-reservation" content="1">
+  <meta name="tdm-policy" content="https:&#x2F;&#x2F;rawthoughts.in&#x2F;terms&#x2F;">
+      
+    
+      
+  <link rel="manifest" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;manifest.webmanifest">
+      
+    
+  
+
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  <link rel="preload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;instrument-sans.woff2" as="font" type="font/woff2" crossorigin>
+    
+  
+    
+  
+    
+  <link rel="preload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;martian-mono-latin.woff2" as="font" type="font/woff2" crossorigin>
+    
+  
+    
+  <link rel="preload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;space-grotesk.woff2" as="font" type="font/woff2" crossorigin>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+  
+    
+  <link rel="stylesheet" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;physics.css">
+    
+  
+    
+  
+    
+  <link rel="stylesheet" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;carrier-tokens.css">
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  <link rel="stylesheet" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;carrier.css">
+    
+  
+    
+  <link rel="stylesheet" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;cinematic-film.css">
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+  
+
+  
+  <script type="importmap">{"imports":{"@base/analytics":"https://rawthoughts.in/assets/analytics-sdk.js","@base/cinematic-film":"https://rawthoughts.in/assets/cinematic-film.js","@base/film-surface":"https://rawthoughts.in/assets/film-surface.js","@base/search":"https://rawthoughts.in/assets/search.js","@base/search-sdk":"https://rawthoughts.in/assets/search-sdk.js","@base/settings":"https://rawthoughts.in/assets/settings.js","@base/video-reveal":"https://rawthoughts.in/assets/video-reveal.js","@base/webmcp":"https://rawthoughts.in/assets/webmcp-sdk.js"}}</script>
+    
+    
+    
+      
+      
+  <link rel="modulepreload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;analytics-consent.js" fetchpriority="low">
+    
+      
+      
+  <link rel="modulepreload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;analytics-sdk.js" fetchpriority="low">
+    
+      
+      
+  <link rel="modulepreload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;enquiry-context.js" fetchpriority="low">
+    
+      
+      
+  <link rel="modulepreload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;process-path.js">
+    
+      
+      
+  <link rel="modulepreload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;settings.js">
+    
+      
+      
+  <link rel="modulepreload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;shell.js">
+    
+      
+      
+  <link rel="modulepreload" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;webmcp.js" fetchpriority="low">
+    
+  
+
+  
+  <script type="application/json" id="search-corpus">{"fields":["title","description","keywords","route","body","notes"],"output":"search.json","page":{"content":{"attributions":[{"principal":"person:harsh","role":"author"}],"description":"Find pages, articles and collections from RawThoughts.","id":"content:rawthoughts-search","language":"en","lifecycle":"published","listing":true,"presentation":{"theme":"theme:carrier"},"resolved_route":{"aliases":[],"canonical_url":"https://rawthoughts.in/search/","mirrors":[],"output":"search/index.html","public_url":"https://rawthoughts.in/search/","url":"https://rawthoughts.in/search/"},"route":{"aliases":[],"mirrors":[],"path":"/search/"},"site":"site:rawthoughts","slug":"search","structure":{"family":{"kind":"index"},"kind":"page"},"title":"Search"},"route":{"aliases":[],"canonical_url":"https://rawthoughts.in/search/","mirrors":[],"output":"search/index.html","public_url":"https://rawthoughts.in/search/","url":"https://rawthoughts.in/search/"}},"profile":"english","route":"/search.json","url":"https://rawthoughts.in/search.json"}</script>
+  
+
+  
+  
+    
+      
+      
+    
+    
+    
+  
+  
+
+<script type="application/json" id="enquiry-context">{"source":{"site":"site:rawthoughts","content":"content:pale-project","url":"https://rawthoughts.in/pale/"},"destination":{"site":"site:rawthoughts","content":"content:rawthoughts-services","url":"https://rawthoughts.in/services/"},"copy":{"subject":"Enquiry from {page}","heading":"About this enquiry","page":"Page","button":"Link","actions":{"services-footer":"Services link in the footer","services-invitation":"Services invitation","services-link":"Link to Services","enquiry-email":"Services enquiry" } } }</script>
+
+
+
+  
+
+
+<script type="application/json" id="webmcp-binding">{"binding":{"contract":"publication-webmcp-v1","tools":["current_page","search"]},"currentPage":{"body_text":"Pale\nPale connects the products around your work to the coding tools you already use. Write your world once: who is involved, what belongs to whom and what each person or agent may do. Pale compiles that description on your own machine, so coding tools such as Claude Code and Codex can ask it at every step what they may do and what they need to know. Your agent helps you write the description, and you return to the work without explaining it all again.\nA harness over the tools you already use\nWork can span your projects, household, company and clients, and each coding tool you use would otherwise need the same instructions repeated in every session. Pale is a meta harness, a harness over the tools people already use, so each of them draws its permissions and context from one description of your world. It shows where an assignment stands while each person and application keeps its own records and permissions, and it brings you back into the conversation when someone needs a decision.\nAmong the products, Pale is the part through which the others act, and each of them can also be used without it; Scope then works with Weave. You can configure a workspace and add repository guidance locally today. The live connection to your coding tools is the part being built.\nFrom your description to work you can return to\nTake an account review. The customer system holds the account and a reporting tool produces the comparison. A report for the wrong period still needs correction, and the next person should be able to see that and find the original work. Pale gets from your description of the world to that work in four steps; the first two run locally today.\nDescribe your world\nSay who is involved, which projects, households, organisations and clients you act within, and what each person, agent and application may do. The description is yours, and Pale compiles it without inventing anything. Your agent can help you write it.\nLet Pale compile it\nPale checks the description and fixes it as one version. That version is the boundary your agents work inside: their permissions and their context come from the same source. Before a change takes over, you can see what it would affect.\nLet your tools ask at every step\nBefore Claude Code or Codex acts, it asks Pale what is allowed and which context the task needs. The customer record stays in the customer system, and the reporting tool keeps the comparison it produces. Routine progress can stay quiet. A request for consent, a conflict or a result that needs review brings you back into the conversation.\nReturn to the result\nOpen the original work and see which decisions are still due. PaleUniverse, the view of your world as Pale compiled it, shows how the work fits into your workspace and where its settings came from. Pale keeps genealogy, the history of context, so a result links back to what it relied on and what followed while each record stays in the system that owns it. When something was wrong, change the description and the next step follows it.\nQuestions about Pale\nHow do my coding tools use Pale?\nThrough a live connection at every step: before Claude Code or Codex acts, it asks Pale what is allowed and what context the task needs, and Pale answers from your compiled description, so every tool works from the same account of your world. A refusal protects anything only where the host enforces it. That connection is the part being built. Today the local tools in the guide add shared coding instructions to a repository and inspect your workspace.\nHow does my agent help me write the description?\nThe description is the one thing everything else depends on, so Pale helps you write it. Its editor support and its agent connection use the same compiler. What the editor shows about an edit to your workspace, your agent can review in conversation and get the same answer. Today you can inspect a workspace and compare a proposed edit with the local tools in the guide.\nDoes Pale replace the systems I already use?\nPale connects the systems you already use rather than taking their place. Each keeps its own records and permissions. When you need the source, Pale takes you back to it.\nCan I bring my own setting and systems?\nPale is for your world, not a default one, so you describe your own people, projects and systems in a workspace. A machine binding tells Pale where to find their files and programs. Each application needs its own working integration.\nWhat does PaleUniverse let me explore?\nPaleUniverse is for seeing your world as Pale compiled it and following any result back to the description behind it; it is planned for a coming release. Its first views show your World, open the Source behind it and compare a proposed Change. Later views follow work in progress (Now), system health (Doctor) and a result\u0027s genealogy: what it relied on, what changed and what followed (Trace).\nWhere should I start?\nStart with a repository you already use. Pale installs shared coding instructions for Claude Code or Codex beside the ones the repository keeps, and shows what a proposed workspace change would affect before you apply it. The Pale guide takes you through choosing a task and using your workspace.\n","content":{"attributions":[{"principal":"person:harsh","role":"author"}],"description":"Write your world once, and Pale compiles it into the permissions and context the coding tools you already use ask for at every step.","documentation":true,"id":"content:pale-project","language":"en","lifecycle":"published","presentation":{"theme":"theme:carrier"},"resolved_route":{"aliases":[],"canonical_url":"https://rawthoughts.in/pale/","mirrors":[],"output":"pale/index.html","public_url":"https://rawthoughts.in/pale/","url":"https://rawthoughts.in/pale/"},"route":{"aliases":[],"mirrors":[],"path":"/pale/"},"site":"site:rawthoughts","structure":{"kind":"collection","purpose":"documentation"},"title":"Pale"},"route":{"aliases":[],"canonical_url":"https://rawthoughts.in/pale/","mirrors":[],"output":"pale/index.html","public_url":"https://rawthoughts.in/pale/","url":"https://rawthoughts.in/pale/"}},"search":{"fields":["title","description","keywords","route","body","notes"],"output":"search.json","page":{"content":{"attributions":[{"principal":"person:harsh","role":"author"}],"description":"Find pages, articles and collections from RawThoughts.","id":"content:rawthoughts-search","language":"en","lifecycle":"published","listing":true,"presentation":{"theme":"theme:carrier"},"resolved_route":{"aliases":[],"canonical_url":"https://rawthoughts.in/search/","mirrors":[],"output":"search/index.html","public_url":"https://rawthoughts.in/search/","url":"https://rawthoughts.in/search/"},"route":{"aliases":[],"mirrors":[],"path":"/search/"},"site":"site:rawthoughts","slug":"search","structure":{"family":{"kind":"index"},"kind":"page"},"title":"Search"},"route":{"aliases":[],"canonical_url":"https://rawthoughts.in/search/","mirrors":[],"output":"search/index.html","public_url":"https://rawthoughts.in/search/","url":"https://rawthoughts.in/search/"}},"profile":"english","route":"/search.json","url":"https://rawthoughts.in/search.json"}}</script>
+
+
+
+  
+  
+  
+    
+  
+  
+    
+    
+  
+  
+  
+    
+  
+    
+  <script type="module" src="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;shell.js"></script>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  <script type="module" src="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;enquiry-context.js" async fetchpriority="low"></script>
+    
+  
+    
+  <script type="module" src="https:&#x2F;&#x2F;rawthoughts.in&#x2F;assets&#x2F;webmcp.js" async fetchpriority="low"></script>
+    
+  
+  
+  
+  <script type="module" src="https:&#x2F;&#x2F;rawthoughts.in&#x2F;gazette&#x2F;islands&#x2F;7f774707cc69097ccb5cb8d70d6ed9bcffb152434eb323ffe267a1ce418a2def.js"></script>
+  
+
+  
+  <script type="speculationrules">{"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"selector_matches":"[download], [rel~=nofollow], [data-no-prefetch], [href*='#']"}}]},"eagerness":"moderate"}]}</script>
+
+  
+  <script type="application/ld+json">{"@context":{"@version":1.1,"@vocab":"https://schema.org/","url":{"@id":"https://schema.org/url","@type":"@id"}},"@id":"https://rawthoughts.in/pale/","@type":"CollectionPage","about":[{"@id":"https://rawthoughts.in/pale/#entity","@type":"SoftwareApplication","identifier":"project:pale","name":"Pale","subjectOf":[{"@id":"https://rawthoughts.in/pale/","@type":"CollectionPage","identifier":"content:pale-project","name":"Pale","url":"https://rawthoughts.in/pale/"},{"@id":"https://rawthoughts.in/pale/understand-your-world/#article","@type":"TechArticle","identifier":"content:pale-docs","name":"Introduction to Pale","url":"https://rawthoughts.in/pale/understand-your-world/"},{"@id":"https://rawthoughts.in/pale/mentions/","@type":"CollectionPage","identifier":"content:pale-mentions","name":"Pale mentions","url":"https://rawthoughts.in/pale/mentions/"},{"@id":"https://docs.rawthoughts.in/pale/overview","@type":"WebPage","name":"Pale","url":"https://docs.rawthoughts.in/pale/overview"}]}],"author":[{"@id":"https://getharsh.in/#person","@type":"Person","identifier":"person:harsh","name":"Harsh Joshi","sameAs":[{"@id":"https://github.com/getHarsh"},{"@id":"https://www.linkedin.com/in/getharsh/"}],"url":"https://getharsh.in/"}],"creativeWorkStatus":"published","description":"Write your world once, and Pale compiles it into the permissions and context the coding tools you already use ask for at every step.","hasPart":[{"@id":"https://rawthoughts.in/pale/understand-your-world/#article","@type":"TechArticle","identifier":"content:pale-docs","name":"Introduction to Pale","url":"https://rawthoughts.in/pale/understand-your-world/"},{"@id":"https://rawthoughts.in/pale/inspect-your-workspace/#article","@type":"TechArticle","identifier":"content:pale-inspect-your-workspace","name":"Inspect your workspace","url":"https://rawthoughts.in/pale/inspect-your-workspace/"},{"@id":"https://rawthoughts.in/pale/materialize-repository-guidance/#article","@type":"TechArticle","identifier":"content:pale-materialize-repository-guidance","name":"Add coding instructions to a repository","url":"https://rawthoughts.in/pale/materialize-repository-guidance/"},{"@id":"_:faq_a2bd67674f5aa380add3982f7541def29fac131c2c166694a6eb1c7f48674497","@type":"FAQPage","isPartOf":{"@id":"https://rawthoughts.in/pale/","identifier":"content:pale-project"},"mainEntity":[{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"\u003cp\u003eThrough a live connection at every step: before Claude Code or Codex acts, it asks Pale what is allowed and what context the task needs, and Pale answers from your compiled description, so every tool works from the same account of your world. A refusal protects anything only where the host enforces it. That connection is the part being built. Today the local tools in the guide add shared coding instructions to a repository and inspect your workspace.\u003c/p\u003e\n"},"name":"How do my coding tools use Pale?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"\u003cp\u003eThe description is the one thing everything else depends on, so Pale helps you write it. Its editor support and its agent connection use the same compiler. What the editor shows about an edit to your workspace, your agent can review in conversation and get the same answer. Today you can inspect a workspace and compare a proposed edit with the local tools in the guide.\u003c/p\u003e\n"},"name":"How does my agent help me write the description?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"\u003cp\u003ePale connects the systems you already use rather than taking their place. Each keeps its own records and permissions. When you need the source, Pale takes you back to it.\u003c/p\u003e\n"},"name":"Does Pale replace the systems I already use?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"\u003cp\u003ePale is for your world, not a default one, so you describe your own people, projects and systems in a workspace. A machine binding tells Pale where to find their files and programs. Each application needs its own working integration.\u003c/p\u003e\n"},"name":"Can I bring my own setting and systems?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"\u003cp\u003ePaleUniverse is for seeing your world as Pale compiled it and following any result back to the description behind it; it is planned for a coming release. Its first views show your World, open the Source behind it and compare a proposed Change. Later views follow work in progress (Now), system health (Doctor) and a result\u0027s genealogy: what it relied on, what changed and what followed (Trace).\u003c/p\u003e\n"},"name":"What does PaleUniverse let me explore?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"\u003cp\u003eStart with a repository you already use. Pale installs shared coding instructions for Claude Code or Codex beside the ones the repository keeps, and shows what a proposed workspace change would affect before you apply it. The \u003ca href=\"https://rawthoughts.in/pale/understand-your-world/\" data-gazette-link=\"content:pale-project#link-2\" data-gazette-destination-kind=\"internal-native\" data-gazette-destination-content=\"content:pale-docs\" data-gazette-destination-site=\"site:rawthoughts\" data-gazette-destination-relationships=\"collection-member\" data-gazette-destination-theme=\"theme:carrier\"\u003ePale guide\u003c/a\u003e takes you through choosing a task and using your workspace.\u003c/p\u003e\n"},"name":"Where should I start?"}]}],"identifier":"content:pale-project","inLanguage":"en","mentions":[{"@id":"https://rawthoughts.in/counsel/#entity","@type":"SoftwareApplication","identifier":"project:counsel","name":"Counsel","subjectOf":[{"@id":"https://rawthoughts.in/counsel/","@type":"CollectionPage","identifier":"content:counsel-introduction","name":"Counsel","url":"https://rawthoughts.in/counsel/"},{"@id":"https://rawthoughts.in/counsel/frame-a-judgment/#article","@type":"Article","identifier":"content:counsel-docs","name":"Frame a useful judgment","url":"https://rawthoughts.in/counsel/frame-a-judgment/"},{"@id":"https://rawthoughts.in/counsel/mentions/","@type":"CollectionPage","identifier":"content:counsel-mentions","name":"Counsel mentions","url":"https://rawthoughts.in/counsel/mentions/"}]},{"@id":"https://rawthoughts.in/gazette/#entity","@type":"SoftwareApplication","identifier":"project:gazette","name":"Gazette","subjectOf":[{"@id":"https://rawthoughts.in/gazette/","@type":"CollectionPage","identifier":"content:gazette-introduction","name":"Gazette","url":"https://rawthoughts.in/gazette/"},{"@id":"https://rawthoughts.in/gazette/first-publication/#article","@type":"TechArticle","identifier":"content:gazette-docs","name":"Your first publication","url":"https://rawthoughts.in/gazette/first-publication/"},{"@id":"https://rawthoughts.in/gazette/mentions/","@type":"CollectionPage","identifier":"content:gazette-mentions","name":"Gazette mentions","url":"https://rawthoughts.in/gazette/mentions/"},{"@id":"https://docs.rawthoughts.in/gazette/overview","@type":"WebPage","name":"Gazette developer guide","url":"https://docs.rawthoughts.in/gazette/overview"}]},{"@id":"https://rawthoughts.in/scope/#entity","@type":"SoftwareApplication","identifier":"project:scope","name":"Scope","subjectOf":[{"@id":"https://rawthoughts.in/scope/","@type":"CollectionPage","identifier":"content:scope-introduction","name":"Scope","url":"https://rawthoughts.in/scope/"},{"@id":"https://rawthoughts.in/scope/context-for-a-task/#article","@type":"TechArticle","identifier":"content:scope-docs","name":"Context for a task","url":"https://rawthoughts.in/scope/context-for-a-task/"},{"@id":"https://rawthoughts.in/scope/mentions/","@type":"CollectionPage","identifier":"content:scope-mentions","name":"Scope mentions","url":"https://rawthoughts.in/scope/mentions/"},{"@id":"https://docs.rawthoughts.in/scope/overview","@type":"WebPage","name":"Scope","url":"https://docs.rawthoughts.in/scope/overview"}]},{"@id":"https://rawthoughts.in/weave/#entity","@type":"SoftwareApplication","identifier":"project:weave","name":"Weave","subjectOf":[{"@id":"https://rawthoughts.in/weave/","@type":"CollectionPage","identifier":"content:weave-introduction","name":"Weave","url":"https://rawthoughts.in/weave/"},{"@id":"https://rawthoughts.in/weave/from-request-to-accepted-work/#article","@type":"Article","identifier":"content:weave-docs","name":"From a request to accepted work","url":"https://rawthoughts.in/weave/from-request-to-accepted-work/"},{"@id":"https://rawthoughts.in/weave/mentions/","@type":"CollectionPage","identifier":"content:weave-mentions","name":"Weave mentions","url":"https://rawthoughts.in/weave/mentions/"},{"@id":"https://docs.rawthoughts.in/weave/overview","@type":"WebPage","name":"Weave","url":"https://docs.rawthoughts.in/weave/overview"}]}],"name":"Pale","publisher":{"@id":"https://rawthoughts.in/#organization","@type":"Organization","identifier":"organization:rtepl","name":"RawThoughts Enterprises Private Limited","sameAs":[{"@id":"https://github.com/getHarshOnline"}],"url":"https://rawthoughts.in/"},"text":"Pale\nPale connects the products around your work to the coding tools you already use. Write your world once: who is involved, what belongs to whom and what each person or agent may do. Pale compiles that description on your own machine, so coding tools such as Claude Code and Codex can ask it at every step what they may do and what they need to know. Your agent helps you write the description, and you return to the work without explaining it all again.\nA harness over the tools you already use\nWork can span your projects, household, company and clients, and each coding tool you use would otherwise need the same instructions repeated in every session. Pale is a meta harness, a harness over the tools people already use, so each of them draws its permissions and context from one description of your world. It shows where an assignment stands while each person and application keeps its own records and permissions, and it brings you back into the conversation when someone needs a decision.\nAmong the products, Pale is the part through which the others act, and each of them can also be used without it; Scope then works with Weave. You can configure a workspace and add repository guidance locally today. The live connection to your coding tools is the part being built.\nFrom your description to work you can return to\nTake an account review. The customer system holds the account and a reporting tool produces the comparison. A report for the wrong period still needs correction, and the next person should be able to see that and find the original work. Pale gets from your description of the world to that work in four steps; the first two run locally today.\nDescribe your world\nSay who is involved, which projects, households, organisations and clients you act within, and what each person, agent and application may do. The description is yours, and Pale compiles it without inventing anything. Your agent can help you write it.\nLet Pale compile it\nPale checks the description and fixes it as one version. That version is the boundary your agents work inside: their permissions and their context come from the same source. Before a change takes over, you can see what it would affect.\nLet your tools ask at every step\nBefore Claude Code or Codex acts, it asks Pale what is allowed and which context the task needs. The customer record stays in the customer system, and the reporting tool keeps the comparison it produces. Routine progress can stay quiet. A request for consent, a conflict or a result that needs review brings you back into the conversation.\nReturn to the result\nOpen the original work and see which decisions are still due. PaleUniverse, the view of your world as Pale compiled it, shows how the work fits into your workspace and where its settings came from. Pale keeps genealogy, the history of context, so a result links back to what it relied on and what followed while each record stays in the system that owns it. When something was wrong, change the description and the next step follows it.\nQuestions about Pale\nHow do my coding tools use Pale?\nThrough a live connection at every step: before Claude Code or Codex acts, it asks Pale what is allowed and what context the task needs, and Pale answers from your compiled description, so every tool works from the same account of your world. A refusal protects anything only where the host enforces it. That connection is the part being built. Today the local tools in the guide add shared coding instructions to a repository and inspect your workspace.\nHow does my agent help me write the description?\nThe description is the one thing everything else depends on, so Pale helps you write it. Its editor support and its agent connection use the same compiler. What the editor shows about an edit to your workspace, your agent can review in conversation and get the same answer. Today you can inspect a workspace and compare a proposed edit with the local tools in the guide.\nDoes Pale replace the systems I already use?\nPale connects the systems you already use rather than taking their place. Each keeps its own records and permissions. When you need the source, Pale takes you back to it.\nCan I bring my own setting and systems?\nPale is for your world, not a default one, so you describe your own people, projects and systems in a workspace. A machine binding tells Pale where to find their files and programs. Each application needs its own working integration.\nWhat does PaleUniverse let me explore?\nPaleUniverse is for seeing your world as Pale compiled it and following any result back to the description behind it; it is planned for a coming release. Its first views show your World, open the Source behind it and compare a proposed Change. Later views follow work in progress (Now), system health (Doctor) and a result\u0027s genealogy: what it relied on, what changed and what followed (Trace).\nWhere should I start?\nStart with a repository you already use. Pale installs shared coding instructions for Claude Code or Codex beside the ones the repository keeps, and shows what a proposed workspace change would affect before you apply it. The Pale guide takes you through choosing a task and using your workspace.\n","url":"https://rawthoughts.in/pale/","usageInfo":{"@id":"https://rawthoughts.in/terms/"}}</script>
+  
+
+  
+
+<style>
+
+
+
+
+
+
+
+
+@font-face { font-family: 'Instrument Sans'; font-style: normal; font-weight: 400 700; font-display: swap; src: url('https://rawthoughts.in/assets/instrument-sans.woff2') format('woff2'); }
+
+
+
+@font-face { font-family: 'Instrument Sans'; font-style: italic; font-weight: 400 700; font-display: swap; src: url('https://rawthoughts.in/assets/instrument-sans-italic-latin.woff2') format('woff2'); }
+
+
+
+@font-face { font-family: 'Martian Mono'; font-style: normal; font-weight: 100 800; font-stretch: 75% 112.5%; font-display: swap; src: url('https://rawthoughts.in/assets/martian-mono-latin.woff2') format('woff2'); }
+
+
+
+@font-face { font-family: 'Space Grotesk'; font-style: normal; font-weight: 300 700; font-display: swap; src: url('https://rawthoughts.in/assets/space-grotesk.woff2') format('woff2'); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+
+
+</head>
+<body>
+
+  
+
+  <a class="skip-link" href="#main">Skip to content</a>
+  
+  
+
+
+<span id="crossing-description" hidden>Opens another publication</span>
+<span id="external-description" hidden>Leaves this site</span>
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+    
+    <header class="frame__header">
+    <a class="frame__brand" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;" 
+
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+
+
+
+
+
+
+
+>RawThoughts</a>
+    
+
+
+  
+  
+  <a class="control control--secondary shell__trigger shell__search-page shell__search-trigger" data-search-label="Search" aria-label="Search, ⌘ K" aria-keyshortcuts="Meta+K Control+K" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;search&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-search"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+><span class="shell__icon shell__icon--search" aria-hidden="true"></span><kbd data-search-shortcut aria-hidden="true">⌘ K</kbd></a>
+  
+
+
+
+    
+    
+    <button class="frame__menu" type="button" aria-controls="publication-navigation publication-tools" aria-expanded="true" hidden>Menu</button>
+    
+    <div class="frame__directory">
+    
+    <nav class="frame__nav" id="publication-navigation" aria-label="Primary navigation">
+      <ul>
+      
+        
+        
+        <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-home"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Home</a><p class="frame__destination-description">Software, research and consulting that follow one question: how a person, a model, an organisation or a society with limited knowledge and resources forms a workable picture of reality, acts through it, learns from what follows and keeps agency and accountability as scale and capability grow.</p></li>
+      
+        
+        
+        <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;services&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-services"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Services</a><p class="frame__destination-description">Improve one business workflow through a paid audit, an agreed build and support where needed, with product judgement and hands-on engineering.</p></li>
+      
+        
+        
+        <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;products&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-products"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+ aria-current="location">Products</a><p class="frame__destination-description">Together the products form one system a person runs, with people deciding, and each part except Scope, which brings context from Pale, Weave or both, can also be used alone.</p></li>
+      
+        
+        
+        <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;collections&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-collections"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Thoughts</a><p class="frame__destination-description">Each collection follows one question into what decides whether a capability becomes useful work: reaching people, the work AI capacity completes, responsibility in everyday practice and the design behind the products. Single arguments are on the Blog.</p></li>
+      
+        
+        
+        <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;blog&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-articles"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Blog</a><p class="frame__destination-description">Independent arguments about workflows, useful compute, evaluation and the work around a capability.</p></li>
+      
+        
+        
+        <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;about&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-about"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>About</a><p class="frame__destination-description">An applied engineering practice where ideas, systems and operating work inform one another.</p></li>
+      
+      </ul>
+    </nav>
+    
+
+    
+
+
+
+
+
+
+
+<div class="shell" data-shell>
+  <div class="shell__tools" id="publication-tools">
+  <button type="button" class="control control--secondary shell__trigger shell__settings-trigger" data-command-trigger="settings" aria-haspopup="dialog" aria-label="Settings" hidden><span class="shell__icon shell__icon--settings" aria-hidden="true"></span></button>
+  </div>
+  <dialog class="shell__dialog" aria-labelledby="shell-title">
+    <div class="shell__heading">
+      <h2 id="shell-title" class="shell__title" tabindex="-1"></h2>
+      <button type="button" class="control control--secondary shell__close">Close</button>
+    </div>
+    
+    
+    
+    
+    
+    
+    <section class="shell__tenant" data-tenant="settings" data-tenant-title="Display settings" hidden>
+      <fieldset class="shell__setting" data-setting="color-mode">
+        <legend>Colour mode</legend>
+        <div class="shell__setting-options">
+          <label><input type="radio" name="color-mode" value="system">System</label>
+          <label><input type="radio" name="color-mode" value="light">Light</label>
+          <label><input type="radio" name="color-mode" value="dark">Dark</label>
+        </div>
+      </fieldset>
+      <fieldset class="shell__setting" data-setting="motion-preference">
+        <legend>Motion</legend>
+        <div class="shell__setting-options">
+          <label><input type="radio" name="motion-preference" value="system">System</label>
+          <label><input type="radio" name="motion-preference" value="reduce">Reduced</label>
+          <label><input type="radio" name="motion-preference" value="allow">Full</label>
+        </div>
+      </fieldset>
+      
+
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+      
+      
+      <p class="shell__status" role="status" data-settings-status data-storage-unavailable="Your preference applies to this page, but could not be saved for future visits."></p>
+    </section>
+  </dialog>
+</div>
+
+    </div>
+    
+  </header>
+  
+  <script>try{var h=document.currentScript.previousElementSibling,u=h&&h.querySelector(".frame__menu"),n=h&&h.querySelector(".frame__nav");if(u&&n){u.hidden=false;var c=getComputedStyle(u).display!=="none";h.setAttribute("data-navigation-mode",c?"compact":"direct");u.setAttribute("aria-expanded",String(!c));n.setAttribute("data-collapsed",String(c))}if(h){var s=h.getBoundingClientRect().height,d=document.documentElement;d.style.setProperty("--frame-header-height",s+"px");d.style.setProperty("--frame-chrome",(["fixed","sticky"].includes(getComputedStyle(h).position)?s:0)+"px")}}catch(x){}</script>
+
+  <main id="main" tabindex="-1" data-structure="collection">
+    
+    
+    <span id="reading-overflow-label" hidden>Scroll sideways to see the rest. Use the arrow keys when focused.</span>
+    
+
+    
+    
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+    
+    
+    
+    
+
+    
+    
+    
+
+    <div class="publication-layout">
+      
+      
+      
+      
+      
+      <div class="publication-body publication-body--product"><section class="project-overview"><header class="page-opening"><h1 id="pale">Pale</h1>
+<p>Pale connects the products around your work to the coding tools you already use. Write your world once: who is involved, what belongs to whom and what each person or agent may do. Pale compiles that description on your own machine, so coding tools such as Claude Code and Codex can ask it at every step what they may do and what they need to know. Your agent helps you write the description, and you return to the work without explaining it all again.</p>
+</header>
+<div class="project-summary prose-flow"><h2 id="a-harness-over-the-tools-you-already-use">A harness over the tools you already use</h2>
+<p>Work can span your projects, household, company and clients, and each coding tool you use would otherwise need the same instructions repeated in every session. Pale is a meta harness, a harness over the tools people already use, so each of them draws its permissions and context from one description of your world. It shows where an assignment stands while each person and application keeps its own records and permissions, and it brings you back into the conversation when someone needs a decision.</p>
+<p>Among <a href="https://rawthoughts.in/products/" data-gazette-link="content:pale-project#link-1" data-gazette-destination-kind="internal-native" data-gazette-destination-content="content:rawthoughts-products" data-gazette-destination-site="site:rawthoughts" data-gazette-destination-theme="theme:carrier">the products</a>, Pale is the part through which the others act, and each of them can also be used without it; Scope then works with Weave. You can configure a workspace and add repository guidance locally today. The live connection to your coding tools is the part being built.</p>
+</div>
+
+
+
+
+
+<nav class="project-links project-resources" aria-label="Explore this product: Pale">
+  <ul>
+  
+    
+    
+    
+    
+    
+    
+    
+    <li>
+      
+        
+        <a class="control control--primary" href="https:&#x2F;&#x2F;docs.rawthoughts.in&#x2F;pale&#x2F;overview" aria-label="Docs: Pale · Developer documentation" title="Developer documentation" 
+
+
+  
+  
+  
+  
+  
+
+
+ data-gazette-destination-kind="external"
+ data-relationship="external"
+
+
+
+
+
+ rel=" external"
+
+
+ aria-describedby=" external-description"
+>Docs</a>
+      
+    </li>
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    <li>
+      
+        
+        <a class="control control--primary" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;pale&#x2F;understand-your-world&#x2F;" aria-label="Learn: Pale · Use-case guide and practical applications" title="Use-case guide and practical applications" 
+
+
+  
+  
+  
+  
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:pale-docs"
+ data-gazette-destination-relationships="collection-member"
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Learn</a>
+      
+    </li>
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    <li>
+      
+        
+        <a class="control control--primary" href="https:&#x2F;&#x2F;github.com&#x2F;getHarshOnline&#x2F;pale" aria-label="GitHub: Pale · Explore on GitHub" title="Explore on GitHub" 
+
+
+  
+  
+  
+  
+  
+
+
+ data-gazette-destination-kind="external"
+ data-relationship="external"
+
+
+
+
+
+ rel=" external"
+
+
+ aria-describedby=" external-description"
+>GitHub</a>
+      
+    </li>
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    <li>
+      
+        
+        <a class="control control--primary" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;pale&#x2F;mentions&#x2F;" aria-label="Mentions: Pale · Writing that discusses or references this product" title="Writing that discusses or references this product" 
+
+
+  
+  
+  
+  
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:pale-mentions"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Mentions</a>
+      
+    </li>
+    
+  
+    
+    
+    
+    
+    
+    
+    
+  
+  </ul>
+</nav>
+
+</section>
+<section class="process-section"><div class="process-introduction prose-flow"><h2 id="from-your-description-to-work-you-can-return-to">From your description to work you can return to</h2>
+<p>Take an account review. The customer system holds the account and a reporting tool produces the comparison. A report for the wrong period still needs correction, and the next person should be able to see that and find the original work. Pale gets from your description of the world to that work in four steps; the first two run locally today.</p>
+</div>
+<div data-gazette-component="process-path" data-gazette-component-address="content:pale-project#component-7" data-gazette-state="pending" data-gazette-props="{&quot;label&quot;:&quot;A description through its connected work&quot;}"><div data-gazette-fallback><section class="process-path" aria-label="A description through its connected work">
+  <div class="process-path__layout">
+  <ol role="list" class="process-path__steps"><li class="process-step"><div class="process-path__copy"><h3 id="describe-your-world">Describe your world</h3>
+<p>Say who is involved, which projects, households, organisations and clients you act within, and what each person, agent and application may do. The description is yours, and Pale compiles it without inventing anything. Your agent can help you write it.</p>
+</div></li>
+<li class="process-step"><div class="process-path__copy"><h3 id="let-pale-compile-it">Let Pale compile it</h3>
+<p>Pale checks the description and fixes it as one version. That version is the boundary your agents work inside: their permissions and their context come from the same source. Before a change takes over, you can see what it would affect.</p>
+</div></li>
+<li class="process-step"><div class="process-path__copy"><h3 id="let-your-tools-ask-at-every-step">Let your tools ask at every step</h3>
+<p>Before Claude Code or Codex acts, it asks Pale what is allowed and which context the task needs. The customer record stays in the customer system, and the reporting tool keeps the comparison it produces. Routine progress can stay quiet. A request for consent, a conflict or a result that needs review brings you back into the conversation.</p>
+</div></li>
+<li class="process-step"><div class="process-path__copy"><h3 id="return-to-the-result">Return to the result</h3>
+<p>Open the original work and see which decisions are still due. PaleUniverse, the view of your world as Pale compiled it, shows how the work fits into your workspace and where its settings came from. Pale keeps genealogy, the history of context, so a result links back to what it relied on and what followed while each record stays in the system that owns it. When something was wrong, change the description and the next step follows it.</p>
+</div></li>
+</ol>
+  </div>
+  
+</section>
+</div><div data-gazette-mount></div></div></section>
+
+
+
+
+
+
+
+<section class="container-contents" aria-label="Guides">
+  <header class="quote-deck__header"><h2>Guides</h2></header>
+  
+  
+  
+  
+    
+      
+      
+    
+  
+    
+      
+        
+        
+        
+        
+<section data-autoplay="false" data-wheel="false" data-deck-field="viewport" class="quote-deck quote-deck--folder" data-content-deck aria-label="Guides">
+  
+  <div class="quote-deck__stage"><article class="quote-deck__card" data-deck-label="Introduction to Pale">
+
+
+
+
+
+
+<a class="folder-card folder-card--text" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;pale&#x2F;understand-your-world&#x2F;" aria-labelledby="folder-title-container-2-1" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:pale-docs"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+ aria-describedby="folder-description-container-2-1"
+>
+  <span class="folder-card__inner">
+    
+    <span class="folder-card__copy">
+      <span class="folder-card__title" id="folder-title-container-2-1">Introduction to Pale</span>
+      <span class="folder-card__description" id="folder-description-container-2-1">How Pale connects your workspace, agent procedures and applications, and how to use its local configuration tools.</span>
+    </span>
+  </span>
+</a>
+</article></div>
+  
+  
+  
+<nav class="carousel-controls quote-deck__controls" aria-label="Guides" hidden>
+  <div class="carousel-controls__arrows quote-deck__arrows">
+    <button class="control control--navigation" type="button" data-quote-previous aria-label="Previous item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H6m5-6-6 6 6 6" /></svg></button>
+    <button class="control control--navigation" type="button" data-quote-next aria-label="Next item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h13m-5-6 6 6-6 6" /></svg></button>
+  </div>
+  <button class="control control--navigation control--compact carousel-controls__playback quote-deck__playback" type="button" data-quote-playback data-pause-label="Pause carousel" data-resume-label="Play carousel" hidden>Pause carousel</button>
+  <output class="carousel-controls__position quote-deck__position" aria-live="polite" aria-atomic="true"></output>
+</nav>
+
+</section>
+
+        
+      
+      
+        <section class="container-contents__group" aria-label="Use your workspace">
+          <header class="quote-deck__header"><h3 class="container-contents__group-title" aria-level="3">Use your workspace</h3></header>
+        
+      
+    
+  
+    
+      
+      
+    
+  
+    
+      
+      
+    
+  
+    
+      
+        
+        
+        
+        
+<section data-autoplay="false" data-wheel="false" data-deck-field="viewport" class="quote-deck quote-deck--folder" data-content-deck aria-label="Use your workspace">
+  
+  <div class="quote-deck__stage"><article class="quote-deck__card" data-deck-label="Add coding instructions to a repository">
+
+
+
+
+
+
+<a class="folder-card folder-card--text" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;pale&#x2F;materialize-repository-guidance&#x2F;" aria-labelledby="folder-title-container-5-1" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:pale-materialize-repository-guidance"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+ aria-describedby="folder-description-container-5-1"
+>
+  <span class="folder-card__inner">
+    
+    <span class="folder-card__copy">
+      <span class="folder-card__title" id="folder-title-container-5-1">Add coding instructions to a repository</span>
+      <span class="folder-card__description" id="folder-description-container-5-1">Add shared coding methods for Codex or Claude Code while keeping your repository&#x27;s own instructions.</span>
+    </span>
+  </span>
+</a>
+</article><article class="quote-deck__card" data-deck-label="Inspect your workspace">
+
+
+
+
+
+
+<a class="folder-card folder-card--text" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;pale&#x2F;inspect-your-workspace&#x2F;" aria-labelledby="folder-title-container-5-2" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:pale-inspect-your-workspace"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+ aria-describedby="folder-description-container-5-2"
+>
+  <span class="folder-card__inner">
+    
+    <span class="folder-card__copy">
+      <span class="folder-card__title" id="folder-title-container-5-2">Inspect your workspace</span>
+      <span class="folder-card__description" id="folder-description-container-5-2">Check an existing Pale workspace selection, read its compiled summary and understand a proposed configuration change.</span>
+    </span>
+  </span>
+</a>
+</article></div>
+  
+  
+  
+<nav class="carousel-controls quote-deck__controls" aria-label="Use your workspace" hidden>
+  <div class="carousel-controls__arrows quote-deck__arrows">
+    <button class="control control--navigation" type="button" data-quote-previous aria-label="Previous item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H6m5-6-6 6 6 6" /></svg></button>
+    <button class="control control--navigation" type="button" data-quote-next aria-label="Next item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h13m-5-6 6 6-6 6" /></svg></button>
+  </div>
+  <button class="control control--navigation control--compact carousel-controls__playback quote-deck__playback" type="button" data-quote-playback data-pause-label="Pause carousel" data-resume-label="Play carousel" hidden>Pause carousel</button>
+  <output class="carousel-controls__position quote-deck__position" aria-live="polite" aria-atomic="true"></output>
+</nav>
+
+</section>
+
+        
+      
+      
+        </section>
+        
+        
+      
+    
+  
+  
+</section>
+
+
+
+<section class="faq" itemscope itemtype="https://schema.org/FAQPage"><h2 id="questions-about-pale">Questions about Pale</h2>
+<details class="faq-item" itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+<summary itemprop="name">How do my coding tools use Pale?</summary>
+<div class="faq-item__answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><div class="prose-flow" itemprop="text"><p>Through a live connection at every step: before Claude Code or Codex acts, it asks Pale what is allowed and what context the task needs, and Pale answers from your compiled description, so every tool works from the same account of your world. A refusal protects anything only where the host enforces it. That connection is the part being built. Today the local tools in the guide add shared coding instructions to a repository and inspect your workspace.</p>
+</div></div>
+</details>
+<details class="faq-item" itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+<summary itemprop="name">How does my agent help me write the description?</summary>
+<div class="faq-item__answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><div class="prose-flow" itemprop="text"><p>The description is the one thing everything else depends on, so Pale helps you write it. Its editor support and its agent connection use the same compiler. What the editor shows about an edit to your workspace, your agent can review in conversation and get the same answer. Today you can inspect a workspace and compare a proposed edit with the local tools in the guide.</p>
+</div></div>
+</details>
+<details class="faq-item" itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+<summary itemprop="name">Does Pale replace the systems I already use?</summary>
+<div class="faq-item__answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><div class="prose-flow" itemprop="text"><p>Pale connects the systems you already use rather than taking their place. Each keeps its own records and permissions. When you need the source, Pale takes you back to it.</p>
+</div></div>
+</details>
+<details class="faq-item" itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+<summary itemprop="name">Can I bring my own setting and systems?</summary>
+<div class="faq-item__answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><div class="prose-flow" itemprop="text"><p>Pale is for your world, not a default one, so you describe your own people, projects and systems in a workspace. A machine binding tells Pale where to find their files and programs. Each application needs its own working integration.</p>
+</div></div>
+</details>
+<details class="faq-item" itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+<summary itemprop="name">What does PaleUniverse let me explore?</summary>
+<div class="faq-item__answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><div class="prose-flow" itemprop="text"><p>PaleUniverse is for seeing your world as Pale compiled it and following any result back to the description behind it; it is planned for a coming release. Its first views show your World, open the Source behind it and compare a proposed Change. Later views follow work in progress (Now), system health (Doctor) and a result's genealogy: what it relied on, what changed and what followed (Trace).</p>
+</div></div>
+</details>
+<details class="faq-item" itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+<summary itemprop="name">Where should I start?</summary>
+<div class="faq-item__answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><div class="prose-flow" itemprop="text"><p>Start with a repository you already use. Pale installs shared coding instructions for Claude Code or Codex beside the ones the repository keeps, and shows what a proposed workspace change would affect before you apply it. The <a href="https://rawthoughts.in/pale/understand-your-world/" data-gazette-link="content:pale-project#link-2" data-gazette-destination-kind="internal-native" data-gazette-destination-content="content:pale-docs" data-gazette-destination-site="site:rawthoughts" data-gazette-destination-relationships="collection-member" data-gazette-destination-theme="theme:carrier">Pale guide</a> takes you through choosing a task and using your workspace.</p>
+</div></div>
+</details>
+</section>
+</div>
+
+      
+    </div>
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+<div class="services-closing">
+<section class="focus-reveal focus-reveal--centred" data-focus-reveal data-focus-mode="once">
+<div class="services-invitation focus-reveal__content">
+  <h2>Engage our services</h2>
+  <a class="control control--primary" data-enquiry-button="services-invitation" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;services&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-services"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Learn More</a>
+</div>
+</section>
+</div>
+
+
+
+    
+  </main>
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <footer class="frame__footer" aria-label="Site footer">
+    <div class="frame__footer-main">
+      <div class="frame__footer-profile">
+              
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+        <a class="frame__brand frame__footer-brand" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;" 
+
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+
+
+
+
+
+
+
+>RawThoughts</a>
+        <p class="frame__footer-description">Software, research and consulting that follow one question: how a person, a model, an organisation or a society with limited knowledge and resources forms a workable picture of reality, acts through it, learns from what follows and keeps agency and accountability as scale and capability grow.</p>
+      
+      </div>
+      
+      
+      <div class="frame__footer-colophon">
+        <p class="frame__footer-copyright">© 2026 RawThoughts Enterprises Private Limited</p>
+        
+        <p class="frame__footer-credit">Made with <span role="img" aria-label="love">❤️</span> using <a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;gazette&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:gazette-introduction"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Gazette</a> · <a class="frame__footer-theme" href="https:&#x2F;&#x2F;github.com&#x2F;getHarshOnline&#x2F;gazette-theme-carrier" 
+
+
+
+ data-gazette-destination-kind="external"
+ data-relationship="external"
+
+
+
+
+
+ rel=" external"
+
+
+ aria-describedby=" external-description"
+>Carrier theme</a></p>
+        
+      </div>
+      
+      <div class="frame__footer-connections">
+        
+        <ul class="frame__footer-social">
+        
+        
+          
+        
+        
+          <li><a href="mailto:hi@rawthoughts.in" 
+
+
+
+ data-gazette-destination-kind="external"
+ data-relationship="external"
+
+
+
+
+
+ rel=" external"
+
+
+ aria-describedby=" external-description"
+>Email</a></li>
+        
+        
+          
+          
+          
+          <li><a href="https:&#x2F;&#x2F;github.com&#x2F;getHarshOnline" 
+
+
+
+ data-gazette-destination-kind="external"
+ data-relationship="external"
+
+
+
+
+
+ rel=" external"
+
+
+ aria-describedby=" external-description"
+>GitHub</a></li>
+          
+          
+          
+          
+          <li><a href="https:&#x2F;&#x2F;x.com&#x2F;getHarshOnline" 
+
+
+
+ data-gazette-destination-kind="external"
+ data-relationship="external"
+
+
+
+
+
+ rel=" external"
+
+
+ aria-describedby=" external-description"
+>X</a></li>
+          
+          
+          
+          
+          <li><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;@RawThoughtsOfficial" 
+
+
+
+ data-gazette-destination-kind="external"
+ data-relationship="external"
+
+
+
+
+
+ rel=" external"
+
+
+ aria-describedby=" external-description"
+>YouTube</a></li>
+          
+          
+        
+        </ul>
+        
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    <ul class="frame__footer-supporting">
+    
+      
+    
+      <li><a data-enquiry-button="services-footer" href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;services&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-services"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Services</a></li>
+    
+      <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;privacy&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-privacy"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Privacy</a></li>
+    
+      <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;terms&#x2F;" 
+
+
+  
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+ data-gazette-destination-content="content:rawthoughts-terms"
+
+
+ data-gazette-destination-theme="theme:carrier"
+ 
+
+
+
+
+
+>Terms</a></li>
+    
+    
+      <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;sitemap.xml" 
+
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+
+
+
+
+
+
+
+ type="application&#x2F;xml">Sitemap</a></li>
+    
+      <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;llms.txt" 
+
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+
+
+
+
+
+
+
+ type="text&#x2F;plain">llms.txt</a></li>
+    
+    
+    
+      <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;feed.xml" 
+
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+
+
+
+
+
+
+
+ type="application&#x2F;atom+xml" rel="alternate">Atom</a></li>
+    
+      <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;feed.json" 
+
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+
+
+
+
+
+
+
+ type="application&#x2F;feed+json" rel="alternate">JSON Feed</a></li>
+    
+      <li><a href="https:&#x2F;&#x2F;rawthoughts.in&#x2F;rss.xml" 
+
+
+
+ data-gazette-destination-kind="internal-native"
+ data-relationship="native"
+
+ data-gazette-destination-site="site:rawthoughts"
+
+
+
+
+
+
+
+ type="application&#x2F;rss+xml" rel="alternate">RSS</a></li>
+    
+    
+    </ul>
+    
+      </div>
+      
+    </div>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="740" viewBox="0 0 420 740" role="img" aria-labelledby="operating-title operating-description">
+<title id="operating-title">Operating dependencies and contractual payments</title>
+<desc id="operating-description">Power, equipment and software, and a suitable facility enable the campus to deliver useful work. Each input has separate payment terms. Customers pay the operator for accepted work.</desc>
+<g fill="var(--color-ink, #292722)" font-family="var(--type-family-reading, sans-serif)" font-size="20">
+<text x="12" y="35" font-family="var(--world-type-display-family, sans-serif)" font-weight="600">Work needs</text>
+<text x="232" y="35" font-family="var(--world-type-display-family, sans-serif)" font-weight="600">Operator pays</text>
+<text x="12" y="95" font-family="var(--world-type-display-family, sans-serif)" font-weight="600">Electrical supply</text>
+<text x="12" y="134">Reliable supply</text>
+<text x="12" y="161">at the time needed</text>
+<text x="232" y="134">Tariff + capacity</text>
+<text x="232" y="161">Connection costs</text>
+<text x="12" y="245" font-family="var(--world-type-display-family, sans-serif)" font-weight="600">Equipment + software</text>
+<text x="12" y="284">Memory, topology</text>
+<text x="12" y="311">and software suited</text>
+<text x="12" y="338">to the workload</text>
+<text x="232" y="284">Purchase or lease</text>
+<text x="232" y="311">Financing terms</text>
+<text x="12" y="425" font-family="var(--world-type-display-family, sans-serif)" font-weight="600">Facility</text>
+<text x="12" y="464">Carry the load</text>
+<text x="12" y="491">and remove heat</text>
+<text x="232" y="464">Rent or service fees</text>
+<text x="232" y="491">Maintenance</text>
+</g>
+<g fill="none" stroke="var(--color-ink, #292722)" stroke-width="1.5"><path d="M12 51H408"/><path d="M45 633V605Q45 590 60 590H360Q375 590 375 605V633 M370 627L375 633L380 627"/><path d="M375 671V704Q375 719 360 719H60Q45 719 45 704V671 M40 677L45 671L50 677"/></g>
+<g fill="var(--color-ink, #292722)" font-family="var(--type-family-reading, sans-serif)" font-size="20">
+<text x="12" y="657" font-family="var(--world-type-display-family, sans-serif)" font-weight="600">Operator</text>
+<text x="408" y="657" font-family="var(--world-type-display-family, sans-serif)" font-weight="600" text-anchor="end">Customer</text>
+<text x="210" y="577" text-anchor="middle">Useful jobs delivered</text>
+<text x="210" y="706" text-anchor="middle">Payment for accepted work</text>
+</g></svg>

@@ -1,0 +1,1 @@
+.relation-drawing{color:var(--color-ink);margin-block:var(--world-figure-interval)}.relation-drawing>svg{display:block;inline-size:100%;max-inline-size:30rem;block-size:auto;margin-inline:auto}.relation-drawing text{fill:currentColor;font-family:var(--type-family-reading);font-size:20px}.relation-drawing .relation-number{font-family:var(--world-type-numeric-family)}

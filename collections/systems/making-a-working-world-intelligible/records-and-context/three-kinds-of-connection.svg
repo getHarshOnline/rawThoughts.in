@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="510" viewBox="0 0 420 510" role="img" aria-labelledby="connections-title connections-desc">
+  <title id="connections-title">Three kinds of connection</title>
+  <desc id="connections-desc">A comparison message replies to a purchase request. A maintenance note may concern that request. An accepted conversion connects the request to a work record.</desc>
+  <g fill="none" stroke="var(--color-ink, #292722)" stroke-width="1.5">
+    <path d="M28 98H178 M242 98H392"/>
+    <path d="M103 112V230Q103 258 131 258H164"/>
+    <path d="M158 253L164 258L158 263"/>
+    <path d="M317 112V230Q317 258 289 258H256" stroke-dasharray="5 6"/>
+    <path d="M262 253L256 258L262 263"/>
+    <path d="M210 317V445"/>
+    <path d="M205 439L210 445L215 439"/>
+    <path d="M130 493H290"/>
+  </g>
+  <path d="M130 309H290" fill="none" stroke="var(--color-accent, #993e35)" stroke-width="2"/>
+  <g fill="var(--color-ink, #292722)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="middle">
+    <g font-family="var(--world-type-display-family, sans-serif)" font-weight="600">
+      <text x="103" y="59">Comparison</text><text x="103" y="85">message</text>
+      <text x="317" y="59">Maintenance</text><text x="317" y="85">note</text>
+      <text x="210" y="282">Purchase</text><text x="210" y="305">request</text>
+      <text x="210" y="480">Work record</text>
+    </g>
+    <text x="52" y="170">replies</text><text x="52" y="195">to</text>
+    <text x="369" y="170">may</text><text x="369" y="195">concern</text>
+    <text x="231" y="375" text-anchor="start">accepted</text><text x="231" y="400" text-anchor="start">conversion</text>
+  </g>
+</svg>

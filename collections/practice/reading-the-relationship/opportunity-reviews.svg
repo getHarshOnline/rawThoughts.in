@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="764" viewBox="0 0 620 764" role="img" aria-labelledby="opportunity-reviews-title opportunity-reviews-desc">
+<title id="opportunity-reviews-title">One account, two opportunities</title><desc id="opportunity-reviews-desc">Three reviews; one continuing relationship. Across three reviews the account relationship continues. The new-service opportunity moves from a plausible problem with access, to blocked when access is unavailable, to a narrower scope that can be assessed. Renewal continues under its separate mandate throughout. The third review leaves a workshop proposed, not accepted work.</desc>
+<rect x="28" y="4" width="564" height="216" rx="12" fill="var(--color-ink, #293b45)" fill-opacity="0.07"/>
+<text x="46" y="40" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="24" font-weight="600">1 · A problem worth investigating</text>
+<text x="46" y="80" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">New service: recurring delays.</text>
+<text x="46" y="112" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">Sponsor interested; record access offered.</text>
+<path d="M46 136H574" fill="none" stroke="var(--color-ink, #293b45)" stroke-width="1" opacity="0.4"/>
+<text x="46" y="174" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">Renewal: continues under its own mandate.</text>
+<path d="M310 230V262 M302 250L310 262L318 250" fill="none" stroke="var(--color-accent, #34877f)" stroke-width="3"/>
+<rect x="28" y="274" width="564" height="216" rx="12" fill="var(--color-accent, #34877f)" fill-opacity="0.12"/>
+<text x="46" y="310" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="24" font-weight="600">2 · Interest remains; access changes</text>
+<text x="46" y="350" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">New service: required records unavailable.</text>
+<text x="46" y="382" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">Assessment blocked, not a lost customer.</text>
+<path d="M46 406H574" fill="none" stroke="var(--color-ink, #293b45)" stroke-width="1" opacity="0.4"/>
+<text x="46" y="444" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">Renewal: its separate work can continue.</text>
+<path d="M310 500V532 M302 520L310 532L318 520" fill="none" stroke="var(--color-accent, #34877f)" stroke-width="3"/>
+<rect x="28" y="544" width="564" height="216" rx="12" fill="var(--color-ink, #293b45)" fill-opacity="0.07"/>
+<text x="46" y="580" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="24" font-weight="600">3 · Assess a narrower proposal</text>
+<text x="46" y="620" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">New service: a smaller dataset is available.</text>
+<text x="46" y="652" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">Revised scope; workshop still proposed.</text>
+<path d="M46 676H574" fill="none" stroke="var(--color-ink, #293b45)" stroke-width="1" opacity="0.4"/>
+<text x="46" y="714" fill="var(--color-ink, #293b45)" font-family="var(--type-family-reading, sans-serif)" font-size="22">Renewal: retains its own evidence and owner.</text>
+</svg>
