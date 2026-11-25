@@ -124,3 +124,6 @@ Change `PALE_HOST` to the other value in the table. If you are adding Claude Cod
 
 
 Reading path: [Pale](https://rawthoughts.in/pale/) > [Add coding instructions to a repository](https://rawthoughts.in/pale/materialize-repository-guidance/)
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

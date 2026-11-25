@@ -111,3 +111,6 @@ Return to [Introduction to Pale](https://rawthoughts.in/pale/understand-your-wor
 
 
 Reading path: [Pale](https://rawthoughts.in/pale/) > [Inspect your workspace](https://rawthoughts.in/pale/inspect-your-workspace/)
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

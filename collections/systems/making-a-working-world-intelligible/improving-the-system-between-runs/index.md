@@ -51,7 +51,7 @@ In the document example, “always reject a changed definition” could remove s
 
 The model and procedure are not the only things that determine performance. Available documents, tools, task definitions, runtime settings and the evaluator all affect what a configuration can do. If the revised procedure receives a clearer document or a more forgiving evaluator, its apparent gain cannot be assigned to the procedure alone.
 
-Pale's design therefore starts an adaptive branch from a fixed account of the relevant conditions. Candidate generation may inspect a defined training set and use feedback to search. Validation helps choose among candidates; [a later held-out evaluation](https://causality.in/reckon/) asks whether the selected candidate still helps. Reusing that final evaluation repeatedly as search feedback changes its role: it is no longer an untouched comparison.
+Pale's design therefore starts an adaptive branch from a fixed account of the relevant conditions. Candidate generation may inspect a defined training set and use feedback to search. Validation helps choose among candidates; [a later held-out evaluation](https://causality.in/reckon/) (on Causality) asks whether the selected candidate still helps. Reusing that final evaluation repeatedly as search feedback changes its role: it is no longer an untouched comparison.
 
 An evaluator used to reward the search also needs independent scrutiny. A model can produce fluent explanations that satisfy another model while still missing the actual difference in the documents. A native check, an independently prepared reference or appropriately reviewed cases can test a different part of the result. Disagreement is informative because the evaluators may be measuring different achievements.
 
@@ -73,3 +73,6 @@ Reading path: [Systems](https://rawthoughts.in/collections/systems/) > [Making a
 Previous in journey: [The structure a responsibility needs](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/starting-with-the-duty/)
 
 Next in journey: [Would you carry another control layer?](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/another-control-layer/)
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

@@ -2,8 +2,6 @@ Title: Scope mentions
 
 [Read HTML](https://rawthoughts.in/scope/mentions/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1
@@ -17,3 +15,6 @@ Page 1 of 1
 - [Research and the working system](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/research-and-the-working-system/)
 - [Building a place to think](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/)
 
+
+
+Source code for [Scope](https://github.com/getHarshOnline/scope) is credited to [Harsh Joshi](https://getharsh.in/about/).

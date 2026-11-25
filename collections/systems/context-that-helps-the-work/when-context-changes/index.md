@@ -91,3 +91,6 @@ Reading path: [Systems](https://rawthoughts.in/collections/systems/) > [Context 
 Previous in journey: [Finding the right context for the work](https://rawthoughts.in/collections/systems/context-that-helps-the-work/finding-the-right-context-for-the-work/)
 
 Next in journey: [When context helps](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-helps/)
+
+
+Source code for [Scope](https://github.com/getHarshOnline/scope) is credited to [Harsh Joshi](https://getharsh.in/about/).

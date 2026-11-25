@@ -60,3 +60,6 @@ Your local preview remains a place to experiment. At release, the practical ques
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Review a publication before release](https://rawthoughts.in/gazette/review-a-publication/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

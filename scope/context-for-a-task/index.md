@@ -82,9 +82,12 @@ Parallel work raises another question: if one agent changes a premise, which par
 
 An agent reporting that it used the supplier report tells us something about the draft, but not whether the update was useful or correct. Scope's learning programme would compare what it offered, what the agent reported using and how the work ended.
 
-Through Pale, [Reckon](https://causality.in/reckon/) would compare retrieval and memory choices on the same work; each comparison is an intervention contrast, not proof of what caused the outcome. That evidence could support a proposed change to Scope's retrieval policy, followed by review and a separate release. [When context helps](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-helps/) explains the comparison.
+Through Pale, [Reckon](https://causality.in/reckon/) (on Causality) would compare retrieval and memory choices on the same work; each comparison is an intervention contrast, not proof of what caused the outcome. That evidence could support a proposed change to Scope's retrieval policy, followed by review and a separate release. [When context helps](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-helps/) explains the comparison.
 
 To build the Scope library and set up for development, follow [Building the library](https://docs.rawthoughts.in/scope/development#building-the-library).
 
 
 Reading path: [Scope](https://rawthoughts.in/scope/) > [Context for a task](https://rawthoughts.in/scope/context-for-a-task/)
+
+
+Source code for [Scope](https://github.com/getHarshOnline/scope) is credited to [Harsh Joshi](https://getharsh.in/about/).

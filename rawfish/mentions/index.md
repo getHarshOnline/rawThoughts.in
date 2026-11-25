@@ -2,8 +2,6 @@ Title: RawFish mentions
 
 [Read HTML](https://rawthoughts.in/rawfish/mentions/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1

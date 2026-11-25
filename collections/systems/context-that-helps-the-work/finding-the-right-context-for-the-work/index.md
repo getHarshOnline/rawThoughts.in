@@ -18,13 +18,13 @@ The puzzle is finding context that belongs to this work, not merely text that re
 
 Scope’s first intended use is publication work: helping an agent resume an essay after a new session starts. The original writing establishes the argument; the current draft shows what has been developed; the publication's purpose explains why the piece belongs there; the current decisions identify what may change. A compressed account that remembers the title but loses the reason for the essay has preserved the wrong thing.
 
-For a revision of [Breath of Cosmos](https://getharsh.in/blog/breath-of-cosmos/), the proposed slice could look like this:
+For a revision of [Breath of Cosmos](https://getharsh.in/blog/breath-of-cosmos/) (on getHarsh), the proposed slice could look like this:
 
 | Context | Why this task needs it |
 | --- | --- |
 | The original breath-and-cosmos argument | Preserve its passage from a breathing interval to an unbounded frame, including the textual image behind it |
 | The current getHarsh edition | See the developed argument and the qualifications beside its model of breath and consciousness |
-| The distinct [Sleepwalker reflection](https://sleepwalker.in/blog/the-world-inside-a-breath/) | Keep the question about the observer and the world it can contain connected without making both essays the same piece |
+| The distinct [Sleepwalker reflection](https://sleepwalker.in/blog/the-world-inside-a-breath/) (on Sleepwalker) | Keep the question about the observer and the world it can contain connected without making both essays the same piece |
 | Current editorial decisions and the reuse terms of each image | Distinguish a drafted revision from accepted publication, and an available image from one cleared for reuse |
 
 **Note**
@@ -81,3 +81,6 @@ The aim is not to give every agent everything it might conceivably need. It is t
 Reading path: [Systems](https://rawthoughts.in/collections/systems/) > [Context that helps the work](https://rawthoughts.in/collections/systems/context-that-helps-the-work/) > [Finding the right context for the work](https://rawthoughts.in/collections/systems/context-that-helps-the-work/finding-the-right-context-for-the-work/)
 
 Next in journey: [When an agent's context changes underneath it](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-changes/)
+
+
+Source code for [Scope](https://github.com/getHarshOnline/scope) is credited to [Harsh Joshi](https://getharsh.in/about/).

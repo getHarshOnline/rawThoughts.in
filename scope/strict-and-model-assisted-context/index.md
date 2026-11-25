@@ -61,3 +61,6 @@ The [developer mode explanation](https://docs.rawthoughts.in/scope/concepts#scop
 
 
 Reading path: [Scope](https://rawthoughts.in/scope/) > [Understand the retrieval modes](https://rawthoughts.in/scope/strict-and-model-assisted-context/)
+
+
+Source code for [Scope](https://github.com/getHarshOnline/scope) is credited to [Harsh Joshi](https://getharsh.in/about/).

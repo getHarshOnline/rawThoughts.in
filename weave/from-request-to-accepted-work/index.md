@@ -107,7 +107,7 @@ The developer guide [Extending Weave](https://docs.rawthoughts.in/weave/extendin
 
 Weave's design serves an organisation of people alone. Chat, agents and [Pale](https://rawthoughts.in/pale/understand-your-world/#use-connected-applications-for-their-own-strengths) are optional. With Pale connected, Weave keeps the business records and work; Pale checks permission and coordinates permitted work. Their histories link where they concern the same work.
 
-The path to [Scope](https://rawthoughts.in/scope/) for context, [Counsel](https://rawthoughts.in/counsel/) for judgment and [Reckon](https://causality.in/reckon/) for evaluation goes through Pale. Without Pale, Scope still reads Weave directly and is how an agent reads Weave; Weave itself never calls Scope. [Gazette](https://rawthoughts.in/gazette/) may read Weave facts directly for publication. These connections are the work in front of Weave once its first vertical runs.
+The path to [Scope](https://rawthoughts.in/scope/) for context, [Counsel](https://rawthoughts.in/counsel/) for judgment and [Reckon](https://causality.in/reckon/) (on Causality) for evaluation goes through Pale. Without Pale, Scope still reads Weave directly and is how an agent reads Weave; Weave itself never calls Scope. [Gazette](https://rawthoughts.in/gazette/) may read Weave facts directly for publication. These connections are the work in front of Weave once its first vertical runs.
 
 <a id="availability"></a>
 

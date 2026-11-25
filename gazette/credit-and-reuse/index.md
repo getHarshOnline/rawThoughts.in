@@ -89,3 +89,6 @@ See the [licence field rules](https://docs.rawthoughts.in/gazette/content-model#
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Authorship, citation and reuse](https://rawthoughts.in/gazette/credit-and-reuse/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

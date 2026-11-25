@@ -106,3 +106,6 @@ Field Notes shows the change of address and a different reading template. A them
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Connect publications](https://rawthoughts.in/gazette/connect-publications/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

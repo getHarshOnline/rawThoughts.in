@@ -88,3 +88,6 @@ Reading path: [Systems](https://rawthoughts.in/collections/systems/) > [Making a
 Previous in journey: [How Pale fits together](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/architecture/)
 
 Next in journey: [The structure a responsibility needs](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/starting-with-the-duty/)
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

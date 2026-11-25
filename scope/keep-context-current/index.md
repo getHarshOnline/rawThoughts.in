@@ -56,3 +56,6 @@ The implementation guide explains [how imports distinguish omission from removal
 
 
 Reading path: [Scope](https://rawthoughts.in/scope/) > [Keep a task current](https://rawthoughts.in/scope/keep-context-current/)
+
+
+Source code for [Scope](https://github.com/getHarshOnline/scope) is credited to [Harsh Joshi](https://getharsh.in/about/).

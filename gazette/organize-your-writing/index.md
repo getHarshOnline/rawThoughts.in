@@ -157,3 +157,6 @@ Taxonomies let you classify writing across those homes. An observation term coul
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Articles, collections and journeys](https://rawthoughts.in/gazette/organize-your-writing/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

@@ -372,9 +372,9 @@ The theme declares an island's module and the function that mounts it; the artic
 
 ## Carry the method into a real article
 
-The three sample figures above come from Causality's articles on [endpoint-constrained paths](https://causality.in/blog/future-without-retrocausation/), [the cost of a query](https://causality.in/collections/changing-descriptions/from-summary-to-repair/the-price-of-another-question/) and [reconstructing from a noisy record](https://causality.in/blog/the-record-and-the-arrow/). In [What did selective memory buy?](https://causality.in/collections/evidence-and-evaluation/from-observation-to-evaluation/what-did-selective-memory-buy/), a saved notebook recomputes summaries from Reckon's retained evaluation results. The article keeps the workload, negative results and measurement costs beside those numbers. Its analysis uses the same saved-result form for a research comparison.
+The three sample figures above come from Causality's articles on [endpoint-constrained paths](https://causality.in/blog/future-without-retrocausation/) (on Causality), [the cost of a query](https://causality.in/collections/changing-descriptions/from-summary-to-repair/the-price-of-another-question/) (on Causality) and [reconstructing from a noisy record](https://causality.in/blog/the-record-and-the-arrow/) (on Causality). In [What did selective memory buy?](https://causality.in/collections/evidence-and-evaluation/from-observation-to-evaluation/what-did-selective-memory-buy/) (on Causality), a saved notebook recomputes summaries from Reckon's retained evaluation results. The article keeps the workload, negative results and measurement costs beside those numbers. Its analysis uses the same saved-result form for a research comparison.
 
-For an interaction that changes a model, [RawFish's opinion comparison](https://rawthoughts.in/collections/systems/rehearsal-and-evidence/how-opinions-move/) lets a reader vary a small illustrative influence model; its trajectories remain simulated possibilities. [What can you distinguish with one more move?](https://causality.in/collections/changing-descriptions/from-summary-to-repair/budgeted-questions/) spends an observation budget and shows which distinctions remain possible. Both keep the explanation readable alongside the controls, so the interaction helps readers examine the argument.
+For an interaction that changes a model, [RawFish's opinion comparison](https://rawthoughts.in/collections/systems/rehearsal-and-evidence/how-opinions-move/) lets a reader vary a small illustrative influence model; its trajectories remain simulated possibilities. [What can you distinguish with one more move?](https://causality.in/collections/changing-descriptions/from-summary-to-repair/budgeted-questions/) (on Causality) spends an observation budget and shows which distinctions remain possible. Both keep the explanation readable alongside the controls, so the interaction helps readers examine the argument.
 
 
 ## Article notes
@@ -385,7 +385,7 @@ For an interaction that changes a model, [RawFish's opinion comparison](https://
 
 ## Three figures and their combined size
 
-These file sizes were recorded from Gazette’s local draft publication output on 16 November 2026. The figures accompany [endpoint-constrained paths](https://causality.in/blog/future-without-retrocausation/), [the price of another question](https://causality.in/collections/changing-descriptions/from-summary-to-repair/the-price-of-another-question/) and [the record and the arrow](https://causality.in/blog/the-record-and-the-arrow/). Each SHA-256 digest identifies the version counted.
+These file sizes were recorded from Gazette’s local draft publication output on 16 November 2026. The figures accompany [endpoint-constrained paths](https://causality.in/blog/future-without-retrocausation/) (on Causality), [the price of another question](https://causality.in/collections/changing-descriptions/from-summary-to-repair/the-price-of-another-question/) (on Causality) and [the record and the arrow](https://causality.in/blog/the-record-and-the-arrow/) (on Causality). Each SHA-256 digest identifies the version counted.
 
 Execution count: 1
 
@@ -451,3 +451,6 @@ This accounts for the selected image files. A page’s transfer size also depend
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Figures, notes and notebooks](https://rawthoughts.in/gazette/figures-notes-and-math/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

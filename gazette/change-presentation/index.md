@@ -67,7 +67,7 @@ These themes have their own repositories and setup requirements; they are separa
 
 ## Let a crossing reveal its destination
 
-In [How Pale fits together](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/architecture/), the link to [MONAD](https://causality.in/monad/) connects a system's working description with the research question of changing that description. RawThoughts' Carrier world owns the article's type and layout. The link borrows the small destination mark supplied by Causality's Lattice world. That mark gives the reader a glimpse of where the thought leads while leaving the sentence in the publication they are reading.
+In [How Pale fits together](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/architecture/), the link to [MONAD](https://causality.in/monad/) (on Causality) connects a system's working description with the research question of changing that description. RawThoughts' Carrier world owns the article's type and layout. The link borrows the small destination mark supplied by Causality's Lattice world. That mark gives the reader a glimpse of where the thought leads while leaving the sentence in the publication they are reading.
 
 Gazette resolves the destination and gives those facts to the theme. Base's shared link treatment uses the destination world's configured signature; the author does not select a colour or draw a mark for each link. Field Notes' starter teaches the same [cross-site reference](https://rawthoughts.in/gazette/connect-publications/), but does not supply this visual treatment.
 
@@ -79,3 +79,6 @@ If Gazette reports a missing `reading.html`, check which templates your package 
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Choose a reading form](https://rawthoughts.in/gazette/change-presentation/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

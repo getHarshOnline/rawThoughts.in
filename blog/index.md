@@ -2,8 +2,6 @@ Title: Blog
 
 [Read HTML](https://rawthoughts.in/blog/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 2

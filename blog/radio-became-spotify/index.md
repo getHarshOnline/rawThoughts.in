@@ -30,7 +30,7 @@ The tempting mistake is to keep the old operating arrangement and add the new in
 
 ## The front desk needs the business behind it
 
-In [Evolution of AI and its future in B2B](https://daostudio.in/blog/evolution-of-ai-and-its-future-in-b2b/), I imagined an AI front desk: a customer could say what they needed instead of learning the company's software. The front desk would draw on what the organisation knew, and the organisation would learn from what happened at the front desk. Distribution, retention, control, efficiency and contracts would all have to develop around that relationship.
+In [Evolution of AI and its future in B2B](https://daostudio.in/blog/evolution-of-ai-and-its-future-in-b2b/) (on DAO Studio), I imagined an AI front desk: a customer could say what they needed instead of learning the company's software. The front desk would draw on what the organisation knew, and the organisation would learn from what happened at the front desk. Distribution, retention, control, efficiency and contracts would all have to develop around that relationship.
 
 Consider a customer whose export has failed. “I have passed this to the team” is an easy answer to generate. Getting the customer a usable export requires more. Someone needs to know what failed, who can investigate, what may be changed and which result will satisfy the customer. If the investigation discovers an old product decision, the reason for that decision matters too. A fluent answer cannot supply a reason the organisation has already forgotten.
 
@@ -68,7 +68,7 @@ The same problem appears in the writing you are reading. One idea may belong in 
 
 The radio-to-Spotify lens asks three connected questions. What need persists? What does the new arrangement make possible? And what does using it change about us and the business around it?
 
-Those questions reach beyond a single workflow. If an organisation needs fewer people to produce the same result, where do the savings go? What do its customers now have the money and time to buy? [Post-AGI Economics](https://post-agi-economics.org/about/) follows that question into income, ownership and demand. A technical improvement has an economic life after the demo.
+Those questions reach beyond a single workflow. If an organisation needs fewer people to produce the same result, where do the savings go? What do its customers now have the money and time to buy? [Post-AGI Economics](https://post-agi-economics.org/about/) (on Post-AGI Economics) follows that question into income, ownership and demand. A technical improvement has an economic life after the demo.
 
 For the person running a business today, the useful starting point is close at hand. Look at a customer request that ought to be simple and follow what actually happens. Then ask what you would build if the customer could state the need directly, the right history could be found and the people responsible could act without reconstructing the whole story. Keep following it until the result reaches the customer and the organisation learns from it.
 

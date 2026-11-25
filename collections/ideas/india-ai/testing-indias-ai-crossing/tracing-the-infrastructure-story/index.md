@@ -66,7 +66,7 @@ The loop is therefore thesis, observable condition, comparison and revision. Dec
 
 An export-oriented computing service introduces another split. Its customers may pay from abroad while much of its equipment is imported. Some value stays in wages, local services, taxes and domestic ownership returns; some pays for the imported inputs and foreign claims. The balance is not captured by pointing at the export receipt alone. Nor does a company earning foreign currency establish that all the households around it have acquired greater purchasing power.
 
-This is why the national infrastructure story eventually led me to the questions in [Post-AGI Economics](https://post-agi-economics.org/). Productive capacity, the claims on that capacity and the demand for its output belong in the same account. Otherwise a gain in one place can be mistaken for a gain everywhere.
+This is why the national infrastructure story eventually led me to the questions in [Post-AGI Economics](https://post-agi-economics.org/) (on Post-AGI Economics). Productive capacity, the claims on that capacity and the demand for its output belong in the same account. Otherwise a gain in one place can be mistaken for a gain everywhere.
 
 <a id="from-an-asset-map-to-a-transmission-map"></a>
 

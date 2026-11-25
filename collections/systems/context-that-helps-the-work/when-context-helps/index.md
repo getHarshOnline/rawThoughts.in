@@ -66,7 +66,7 @@ It also needs new situations. A scorer can learn one operator's language or reco
 
 More elaborate ranking, credit assignment or history models become interesting when a simpler method leaves a specific failure unexplained. Perhaps the value of a source depends on the preceding context, or a short sequence reveals that a recurring answer has stopped helping. That is a reason to test a richer representation, not an automatic promotion from a good replay to a self-changing memory.
 
-[Reckon’s completed selective-memory comparisons](https://causality.in/collections/evidence-and-evaluation/from-observation-to-evaluation/what-did-selective-memory-buy/) make the cost of choosing visible. A policy improved over learned utility in one workload while losing to no memory; in another, it matched a simpler policy’s wins after paying for thousands of extra replays. The work spent deciding what to remember belongs in the comparison too.
+[Reckon’s completed selective-memory comparisons](https://causality.in/collections/evidence-and-evaluation/from-observation-to-evaluation/what-did-selective-memory-buy/) (on Causality) make the cost of choosing visible. A policy improved over learned utility in one workload while losing to no memory; in another, it matched a simpler policy’s wins after paying for thousands of extra replays. The work spent deciding what to remember belongs in the comparison too.
 
 Those results give Scope questions to test on its own tasks. Scope would propose a retrieval change; an evaluation and its owner’s decision would precede any release of that change. Ordinary strict retrieval need not wait for an evaluation service to be online.
 
@@ -129,3 +129,6 @@ Neither update establishes causation. It shows how a declared attribution rule c
 Reading path: [Systems](https://rawthoughts.in/collections/systems/) > [Context that helps the work](https://rawthoughts.in/collections/systems/context-that-helps-the-work/) > [When context helps](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-helps/)
 
 Previous in journey: [When an agent's context changes underneath it](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-changes/)
+
+
+Source code for [Scope](https://github.com/getHarshOnline/scope) is credited to [Harsh Joshi](https://getharsh.in/about/).

@@ -2,8 +2,6 @@ Title: Pale
 
 [Read HTML](https://rawthoughts.in/pale/)
 
-Author: Harsh Joshi
-
 <a id="pale"></a>
 
 # Pale
@@ -98,3 +96,6 @@ PaleUniverse is for seeing your world as Pale compiled it and following any resu
 **Where should I start?**
 
 Start with a repository you already use. Pale installs shared coding instructions for Claude Code or Codex beside the ones the repository keeps, and shows what a proposed workspace change would affect before you apply it. The [Pale guide](https://rawthoughts.in/pale/understand-your-world/) takes you through choosing a task and using your workspace.
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

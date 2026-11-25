@@ -103,3 +103,6 @@ Use backticks to show dollar expressions as text. See [supported math notation](
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Typeset mathematics](https://rawthoughts.in/gazette/typeset-mathematics/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

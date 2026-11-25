@@ -2,8 +2,6 @@ Title: Context that helps the work
 
 [Read HTML](https://rawthoughts.in/collections/systems/context-that-helps-the-work/)
 
-Author: Harsh Joshi
-
 A passage can answer an agent's question perfectly and still be the wrong context for its work. Last year's offer may no longer be available. A similar project may belong to another organisation. Even an accurate summary can leave out the decision that would change how the rest should be read. Scope's question begins there: what belongs in this task, and what must remain visible when its context is made smaller?
 
 The answer can change while the task is underway. One agent drafts from a decision to offer a service; another records that the service is no longer being offered. Neither touches the other's file. Following the draft's dependence on that decision would make the conflict visible without stopping an unrelated essay. The proposed semantic-transaction model explores whether those explicit relationships improve on simpler checks of source revisions.

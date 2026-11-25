@@ -66,3 +66,6 @@ With the sources in place, [Articles, collections and journeys](https://rawthoug
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Select content sources](https://rawthoughts.in/gazette/select-owned-sources/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

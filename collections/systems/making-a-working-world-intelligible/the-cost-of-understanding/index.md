@@ -73,9 +73,12 @@ This is why the bet matters beyond speed. Useful structure should reduce redisco
 
 The purchase is one recurring shape inside a larger world. The same person may also work across several companies, research projects and household responsibilities. Reusable structure can connect those pursuits while keeping their different relationships legible. The desired experience is being able to return anywhere in that world and continue from its present position, rather than reconstructing a new miniature world for every session.
 
-An explicit representation is one way to make that understanding affordable. [HENA](https://causality.in/hena/) asks a further question about intelligence whose organisation can itself emerge and evolve. If such an architecture learns a better way to organise the problem, it may reduce work that today has to be described manually. The present comparison still matters: naturalness must come from a more useful representation, with enough fidelity to reveal what it has missed.
+An explicit representation is one way to make that understanding affordable. [HENA](https://causality.in/hena/) (on Causality) asks a further question about intelligence whose organisation can itself emerge and evolve. If such an architecture learns a better way to organise the problem, it may reduce work that today has to be described manually. The present comparison still matters: naturalness must come from a more useful representation, with enough fidelity to reveal what it has missed.
 
 
 Reading path: [Systems](https://rawthoughts.in/collections/systems/) > [Making a working world intelligible](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/) > [The cost of understanding](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/the-cost-of-understanding/)
 
 Next in journey: [How Pale fits together](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/architecture/)
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

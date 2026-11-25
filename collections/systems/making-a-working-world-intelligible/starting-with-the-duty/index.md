@@ -58,3 +58,6 @@ Reading path: [Systems](https://rawthoughts.in/collections/systems/) > [Making a
 Previous in journey: [Records, context and decisions](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/records-and-context/)
 
 Next in journey: [Improving the system between runs](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/improving-the-system-between-runs/)
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

@@ -64,3 +64,6 @@ Use your own public domains for another project. Leave the public links in the s
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Publish developer documentation](https://rawthoughts.in/gazette/publish-developer-documentation/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

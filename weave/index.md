@@ -2,8 +2,6 @@ Title: Weave
 
 [Read HTML](https://rawthoughts.in/weave/)
 
-Author: Harsh Joshi
-
 <a id="weave"></a>
 
 # Weave

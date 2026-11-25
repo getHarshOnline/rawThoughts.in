@@ -2,8 +2,6 @@ Title: Systems
 
 [Read HTML](https://rawthoughts.in/collections/systems/)
 
-Author: Harsh Joshi
-
 Together [the products](https://rawthoughts.in/products/) form one system a person runs, with people deciding: the records hold the world, something is observed, a person decides what to do about it, a direction can be tried before anyone commits to it, the act goes out, and its outcome returns as a record that shapes what is learned next. The journeys here and RawFish's collection take up four of its parts as problems of their own; the records [Weave](https://rawthoughts.in/weave/) keeps and the publication [Gazette](https://rawthoughts.in/gazette/) sends out are introduced on their own pages.
 
 Agents decide far more often than people, so by the time one writes, what it read has usually changed. That is the problem the products share: a read has to say what else needs reading, and a change has to be tried for what it affects before it is made.

@@ -2,8 +2,6 @@ Title: Counsel mentions
 
 [Read HTML](https://rawthoughts.in/counsel/mentions/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1

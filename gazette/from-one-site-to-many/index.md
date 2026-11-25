@@ -30,11 +30,11 @@ For example, Pale's product guides stay with Pale, but readers encounter them at
 
 ## Follow an idea across publications
 
-[How Pale fits together](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/architecture/) explains why a working system needs a sufficiently stable description of the work it runs. It then leads to [MONAD](https://causality.in/monad/), which asks what a principled change of a description would need to preserve. The crossing has a reason: the second publication develops the research question raised by the first.
+[How Pale fits together](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/architecture/) explains why a working system needs a sufficiently stable description of the work it runs. It then leads to [MONAD](https://causality.in/monad/) (on Causality), which asks what a principled change of a description would need to preserve. The crossing has a reason: the second publication develops the research question raised by the first.
 
 RawThoughts uses Carrier; Causality uses Lattice. Their shared Base theme can present the destination's visual language at the crossing, while each page keeps its own publication's composition. Gazette supplies the destination information; the theme decides how to show it. Field Notes' workbook exercise establishes the link and address behaviour, but its starter theme does not reproduce those world treatments.
 
-The same workspace also connects [getHarsh](https://getharsh.in/), [Post-AGI Economics](https://post-agi-economics.org/), [Sleepwalker](https://sleepwalker.in/) and [DAO Studio](https://daostudio.in/). Their different purposes remain visible even when an idea gives readers a reason to move between them.
+The same workspace also connects [getHarsh](https://getharsh.in/) (on getHarsh), [Post-AGI Economics](https://post-agi-economics.org/) (on Post-AGI Economics), [Sleepwalker](https://sleepwalker.in/) (on Sleepwalker) and [DAO Studio](https://daostudio.in/) (on DAO Studio). Their different purposes remain visible even when an idea gives readers a reason to move between them.
 
 <a id="expand-the-workspace-when-the-writing-needs-it"></a>
 
@@ -48,3 +48,6 @@ Gazette builds these publications on its own, from the sources you selected. [Pa
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [From one site to many](https://rawthoughts.in/gazette/from-one-site-to-many/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

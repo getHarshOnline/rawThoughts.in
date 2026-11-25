@@ -2,8 +2,6 @@ Title: Make work flow across teams and systems
 
 [Read HTML](https://rawthoughts.in/services/)
 
-Author: Harsh Joshi
-
 <a id="make-work-flow-across-teams-and-systems"></a>
 
 ## Make work flow across teams and systems
@@ -104,7 +102,7 @@ Agree the baseline and measures before building: perhaps fewer repeat visits, le
 
 **Can we ask about one of your products?**
 
-Yes. Tell us which [product](https://rawthoughts.in/products/) interests you and what you need it to do, and we shape the engagement around your work. A [Pale](https://rawthoughts.in/pale/) pilot starts with one team. [DAO Studio's](https://daostudio.in/) products are also available through RawThoughts consulting, with scope, integration, deployment and licensing agreed for each engagement. DAO Studio retains its product ownership.
+Yes. Tell us which [product](https://rawthoughts.in/products/) interests you and what you need it to do, and we shape the engagement around your work. A [Pale](https://rawthoughts.in/pale/) pilot starts with one team. [DAO Studio's](https://daostudio.in/) (on DAO Studio) products are also available through RawThoughts consulting, with scope, integration, deployment and licensing agreed for each engagement. DAO Studio retains its product ownership.
 
 **When is this a poor fit?**
 
@@ -112,7 +110,7 @@ When nobody can own the workflow, provide access to the people doing it or appro
 
 **Who will we work with?**
 
-[Harsh Joshi](https://getharsh.in/about/), Principal Consultant at RawThoughts, leads the product, architecture and hands-on engineering work alongside your operating and technical owners.
+[Harsh Joshi](https://getharsh.in/about/) (on getHarsh), Principal Consultant at RawThoughts, leads the product, architecture and hands-on engineering work alongside your operating and technical owners.
 
 <a id="discuss-your-workflow-1"></a>
 

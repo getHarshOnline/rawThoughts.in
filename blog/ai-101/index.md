@@ -136,7 +136,7 @@ MLOps concerns the practices and infrastructure for developing, deploying, monit
 
 “AIOps” is often used for applying AI to IT operations, so I would not use the two terms interchangeably. For this discussion, we are concerned with operating the AI application itself.
 
-Cost, latency, security and recovery all become part of the product. The model may answer correctly when everything is available and still leave the customer stuck when a source is missing. [The product around the model](https://getharsh.in/blog/an-ai-product-is-more-than-a-model/) has to decide what happens then.
+Cost, latency, security and recovery all become part of the product. The model may answer correctly when everything is available and still leave the customer stuck when a source is missing. [The product around the model](https://getharsh.in/blog/an-ai-product-is-more-than-a-model/) (on getHarsh) has to decide what happens then.
 
 <a id="can-we-see-it-explain-it-and-control-it"></a>
 
@@ -218,11 +218,11 @@ This brings the subject expert back into the picture. They may recognise the mis
 
 ## Our attempt with YOJN
 
-At DAO Studio we built [YojnAI](https://daostudio.in/yojnai/) around that problem: compose an application, inspect its intermediate work and let feedback inform a deliberate improvement. Agents combined models and tools; checked playbooks arranged their work; an application supplied the organisation's connections and context.
+At DAO Studio we built [YojnAI](https://daostudio.in/yojnai/) (on DAO Studio) around that problem: compose an application, inspect its intermediate work and let feedback inform a deliberate improvement. Agents combined models and tools; checked playbooks arranged their work; an application supplied the organisation's connections and context.
 
 The design associated traces and feedback with particular agents and versions. It paired model snapshots and improvement work with ways for a domain expert to inspect a step, explain what was wrong and compare a candidate change. That was our practical approach to making the application more decomposable. It did not extract a self-contained skill from arbitrary neural weights or solve the stronger research question above.
 
-Callbacks and retained intermediate state mattered because the person needed to reach the work while it was happening, rather than receive only a final answer. If one part needed correction, the useful information from another part should remain available. The public [composition account](https://daostudio.in/yojnai/compose-inspect-and-improve/) develops that mechanism, and [the review walkthrough](https://daostudio.in/yojnai/review-a-disputed-answer/) follows a disputed result into an improvement decision.
+Callbacks and retained intermediate state mattered because the person needed to reach the work while it was happening, rather than receive only a final answer. If one part needed correction, the useful information from another part should remain available. The public [composition account](https://daostudio.in/yojnai/compose-inspect-and-improve/) (on DAO Studio) develops that mechanism, and [the review walkthrough](https://daostudio.in/yojnai/review-a-disputed-answer/) (on DAO Studio) follows a disputed result into an improvement decision.
 
 The aim was to explain enough of the operation to the person who knew the subject. They should not have to learn the mathematics of the model before pointing out that it had used the wrong payment term. Evaluation and version choice were intended to make that correction more useful than a complaint collected in a log.
 
@@ -232,7 +232,7 @@ For the finance team funding the application, the related question was what the 
 
 **The conditions behind the cost.** That historical figure is not a current hosting quote or a like-for-like cost benchmark. Request length, throughput, hardware, quality and operating work determine the actual comparison. Self-hosting also leaves real infrastructure and service costs; the absence of a per-token API bill does not make use free.
 
-The intended shift was to spend more effectively on the people and evidence that improved the task, with a clearer view of what the compute was doing. [Where the application and its data actually run](https://daostudio.in/blog/follow-the-data/) remains a separate part of that choice.
+The intended shift was to spend more effectively on the people and evidence that improved the task, with a clearer view of what the compute was doing. [Where the application and its data actually run](https://daostudio.in/blog/follow-the-data/) (on DAO Studio) remains a separate part of that choice.
 
 <a id="the-8086-era-of-ai"></a>
 

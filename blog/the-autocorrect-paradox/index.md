@@ -112,7 +112,7 @@ A local model would still face the same pressure as the other four: useful work 
 
 These pressures pointed towards engineering and productisation that could sustain the field. They also returned me to a deeper question: can we articulate the relationships a model has learned well enough to know what an intervention will change? A useful statistical association and a causal account are not interchangeable. Better tools should help us examine that difference rather than conceal it beneath a more fluent answer.
 
-Data quality, feedback and deliberate adaptation were where I expected much of the practical work to land. [From a model answer to a useful product](https://getharsh.in/blog/an-ai-product-is-more-than-a-model/) follows the related product decision: what complete job are we promising the person who uses it?
+Data quality, feedback and deliberate adaptation were where I expected much of the practical work to land. [From a model answer to a useful product](https://getharsh.in/blog/an-ai-product-is-more-than-a-model/) (on getHarsh) follows the related product decision: what complete job are we promising the person who uses it?
 
 The autocorrect paradox is not a reason to stop. It is a reason to notice what keeps returning. The demonstration gets better, the expectations move, and the work around the model still needs doing. Time has a weird sense of humour.
 

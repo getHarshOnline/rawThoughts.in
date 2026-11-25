@@ -2,8 +2,6 @@ Title: Counsel
 
 [Read HTML](https://rawthoughts.in/counsel/)
 
-Author: Harsh Joshi
-
 <a id="counsel"></a>
 
 # Counsel
@@ -96,4 +94,4 @@ They are two services. The Judgment Host compares the choices Pale provides. The
 
 **How is a model chosen?**
 
-Start with the work and hardware the model will use. Compare answer quality, when it knows to abstain, how long it takes and how much memory it needs. [Understand a model and its improvement](https://rawthoughts.in/counsel/models-and-improvements/) explains that process. [MUON](https://causality.in/muon/) studies a possible adaptive successor to the local judge, while [HENA](https://causality.in/hena/) explores how many such units could work together. Either would still work inside Pale, which keeps governing permissions and resources.
+Start with the work and hardware the model will use. Compare answer quality, when it knows to abstain, how long it takes and how much memory it needs. [Understand a model and its improvement](https://rawthoughts.in/counsel/models-and-improvements/) explains that process. [MUON](https://causality.in/muon/) (on Causality) studies a possible adaptive successor to the local judge, while [HENA](https://causality.in/hena/) (on Causality) explores how many such units could work together. Either would still work inside Pale, which keeps governing permissions and resources.

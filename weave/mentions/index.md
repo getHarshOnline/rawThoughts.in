@@ -2,8 +2,6 @@ Title: Weave mentions
 
 [Read HTML](https://rawthoughts.in/weave/mentions/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1

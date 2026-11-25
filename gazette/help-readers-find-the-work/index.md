@@ -105,3 +105,6 @@ If you are adding a search interface, see the [search record format](https://doc
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Search, feeds and discovery](https://rawthoughts.in/gazette/help-readers-find-the-work/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

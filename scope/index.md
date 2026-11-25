@@ -2,8 +2,6 @@ Title: Scope
 
 [Read HTML](https://rawthoughts.in/scope/)
 
-Author: Harsh Joshi
-
 <a id="scope"></a>
 
 # Scope
@@ -14,7 +12,7 @@ Scope gives an agent the smallest fresh account it needs to continue a task. It 
 
 ## Remember the world around the task
 
-A new session should not mean explaining the project again. Among [the products](https://rawthoughts.in/products/), Scope brings the context a task needs. It works with [Pale](https://rawthoughts.in/pale/), [Weave](https://rawthoughts.in/weave/) or both: Weave keeps the records and points to the files around them, Pale keeps the history of what work relied on and what followed, and Scope combines them into one account an agent can ask for what it needs. Without Pale, Scope is how an agent reads Weave. With Pale, Scope reranks as the history of what work relied on and what followed updates, and writes back a pointer to the context it gave each agent, so the chain from what an agent was given to what it did stays whole. It helps an agent find the owning account, understand why a choice was made and see what remains open. Scope selects from snapshots supplied by their owners. The original knowledge stays with those owners, so rebuilding an index must not lose the thought. Its first use is to help Claude and Codex resume work across [Harsh Joshi](https://getharsh.in/about/)'s connected writing and projects.
+A new session should not mean explaining the project again. Among [the products](https://rawthoughts.in/products/), Scope brings the context a task needs. It works with [Pale](https://rawthoughts.in/pale/), [Weave](https://rawthoughts.in/weave/) or both: Weave keeps the records and points to the files around them, Pale keeps the history of what work relied on and what followed, and Scope combines them into one account an agent can ask for what it needs. Without Pale, Scope is how an agent reads Weave. With Pale, Scope reranks as the history of what work relied on and what followed updates, and writes back a pointer to the context it gave each agent, so the chain from what an agent was given to what it did stays whole. It helps an agent find the owning account, understand why a choice was made and see what remains open. Scope selects from snapshots supplied by their owners. The original knowledge stays with those owners, so rebuilding an index must not lose the thought. Its first use is to help Claude and Codex resume work across [Harsh Joshi](https://getharsh.in/about/) (on getHarsh)'s connected writing and projects.
 
 People and circumstances belong in that account too. How a colleague prefers a decision explained can improve a draft; it cannot give an agent permission to send it.
 
@@ -88,4 +86,7 @@ Follow the [equipment-order walkthrough](https://rawthoughts.in/scope/context-fo
 
 **How does Scope learn whether its context helped?**
 
-Opening or quoting a source does not establish that it improved the work. Scope's learning design compares what was offered, what the agent used and how the task ended. [When context helps](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-helps/) develops that comparison and its connection to [Reckon](https://causality.in/reckon/).
+Opening or quoting a source does not establish that it improved the work. Scope's learning design compares what was offered, what the agent used and how the task ended. [When context helps](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-helps/) develops that comparison and its connection to [Reckon](https://causality.in/reckon/) (on Causality).
+
+
+Source code for [Scope](https://github.com/getHarshOnline/scope) is credited to [Harsh Joshi](https://getharsh.in/about/).

@@ -103,3 +103,6 @@ Next, [Write in VS Code](https://rawthoughts.in/gazette/write-with-feedback/) or
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Your first publication](https://rawthoughts.in/gazette/first-publication/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

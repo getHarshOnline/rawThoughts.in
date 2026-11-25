@@ -2,8 +2,6 @@ Title: Products
 
 [Read HTML](https://rawthoughts.in/products/)
 
-Author: Harsh Joshi
-
 <a id="pale"></a>
 
 ## [Pale](https://rawthoughts.in/pale/)
@@ -62,7 +60,7 @@ The Systems collection follows the design in essays: why the architecture needs 
 
 Post-AGI Economics is an independent publication examining constraints, ownership and household income as cognitive capability becomes cheaper.
 
-[Explore the publication](https://post-agi-economics.org/)
+[Explore the publication](https://post-agi-economics.org/) (on Post-AGI Economics)
 
 <a id="what-a-representation-can-preserve"></a>
 
@@ -70,7 +68,7 @@ Post-AGI Economics is an independent publication examining constraints, ownershi
 
 Causality asks how representations can change without losing what matters, what a minimal adaptive unit would need, and how many units could learn to organise. Its research projects develop those questions at different stages.
 
-[Explore the research](https://causality.in/)
+[Explore the research](https://causality.in/) (on Causality)
 
 <a id="questions-about-the-products"></a>
 
@@ -86,7 +84,7 @@ How does a person or an organisation form a working picture of its work, act thr
 
 **How do these products fit together?**
 
-Together the products form one system a person runs, with people deciding: the records hold the world, something is observed, a person decides what to do about it, a direction can be tried before anyone commits to it, the act goes out, and its outcome returns as a record that shapes what is learned next. What joins them is one problem: agents decide far more often than people, so by the time an agent writes, what it read has usually changed. A read says what else to read, and a write is tried for what it affects before it goes in; [the Systems collection](https://rawthoughts.in/collections/systems/) follows that through the parts. Pale's local tools, Gazette and [Reckon’s](https://causality.in/reckon/) laboratory run today and the other parts join one at a time; each product's page says what runs and the problem in front of it.
+Together the products form one system a person runs, with people deciding: the records hold the world, something is observed, a person decides what to do about it, a direction can be tried before anyone commits to it, the act goes out, and its outcome returns as a record that shapes what is learned next. What joins them is one problem: agents decide far more often than people, so by the time an agent writes, what it read has usually changed. A read says what else to read, and a write is tried for what it affects before it goes in; [the Systems collection](https://rawthoughts.in/collections/systems/) follows that through the parts. Pale's local tools, Gazette and [Reckon’s](https://causality.in/reckon/) (on Causality) laboratory run today and the other parts join one at a time; each product's page says what runs and the problem in front of it.
 
 In the integrated system, requests for Scope’s context, Counsel’s judgment and Reckon’s evaluation pass through Pale. Scope always works with Pale, Weave or both: Weave keeps the records and points to the files around them, Pale keeps the history of what each piece of work relied on and what followed, and Scope combines the two into one account an agent can ask for what it needs. Without Pale, Scope is how an agent reads Weave. Harsh describes three sides that keep the system improving safely: the recursive self-improvement side, where Microsoft's SkillOpt, Reckon and Counsel are joined by Pale's genealogy, its history of what each piece of work relied on and what followed, and improve the methods between runs; the continual-learning side, where a person's workspace and Pale's SDKs, language server, VS Code extension and MCP let a person and their agent keep rewriting the description of their world; and the context engineering and alignment side, where Scope, that genealogy and Weave give each act the context it needs and keep it within bounds. Gazette builds publications from the sources you select and does not call Scope, Counsel or Reckon; supplying it an organisation's permitted Weave records is the connection in front. RawFish rehearses a decision through a simulated world. Reckon, under Causality, supplies the separate evaluation instrument. [Pale’s introduction](https://rawthoughts.in/pale/understand-your-world/) explains how those contributions fit without moving their records or decisions into one application.
 

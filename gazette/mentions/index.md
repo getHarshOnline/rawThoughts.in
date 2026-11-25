@@ -2,8 +2,6 @@ Title: Gazette mentions
 
 [Read HTML](https://rawthoughts.in/gazette/mentions/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1
@@ -17,3 +15,6 @@ Page 1 of 1
 - [Research and the working system](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/research-and-the-working-system/)
 - [The cost of understanding](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/the-cost-of-understanding/)
 
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

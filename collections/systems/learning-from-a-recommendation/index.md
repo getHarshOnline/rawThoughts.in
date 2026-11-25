@@ -2,8 +2,6 @@ Title: Learning from a recommendation
 
 [Read HTML](https://rawthoughts.in/collections/systems/learning-from-a-recommendation/)
 
-Author: Harsh Joshi
-
 A report is blank. The team drawing it seems the obvious place to send the issue, until someone discovers that the underlying query was denied. The symptom stayed the same; the evidence changed where it made sense to investigate. This is the comparison Counsel's judgment host is for: weigh the permitted alternatives, explain which evidence distinguishes them and recognise when a missing fact prevents a useful recommendation.
 
 The person responsible still chooses what happens next. That leaves several things to learn from when the report is finally fixed. Did the model overlook an access record it already had? Was the record unavailable when it answered? Did the eventual investigation follow good advice, or recover from a confident mistake? A successful outcome can conceal each of those histories if the recommendation, the decision and the later result are collapsed into one score.

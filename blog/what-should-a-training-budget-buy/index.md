@@ -10,7 +10,7 @@ Author: Harsh Joshi
 
 A training budget does not buy model size alone. It buys a combination of the model being trained and the amount of training it receives. Making the model larger spends more of the budget on each token, leaving fewer tokens available within the same computational limit. This is a different question from making an existing run execute efficiently. Before asking how quickly a cluster can perform the work, we have to decide which work should occupy the budget. A well-executed experiment can still be an unhelpful allocation between size and training exposure.
 
-This is one technical question within [Beyond the Mirage’s wider argument about intelligence](https://causality.in/blog/beyond-the-mirage/). That essay asks what scaling can and cannot establish about causal understanding. Here the question is narrower: given a fixed budget and a specified objective, how should we divide the training work? A result about that allocation does not settle the wider architectural proposal.
+This is one technical question within [Beyond the Mirage’s wider argument about intelligence](https://causality.in/blog/beyond-the-mirage/) (on Causality). That essay asks what scaling can and cannot establish about causal understanding. Here the question is narrower: given a fixed budget and a specified objective, how should we divide the training work? A result about that allocation does not settle the wider architectural proposal.
 
 <a id="the-important-comparison-holds-compute-fixed"></a>
 

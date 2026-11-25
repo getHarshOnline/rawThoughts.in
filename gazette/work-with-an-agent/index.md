@@ -78,3 +78,6 @@ Open the reported address and ask the agent to stop its preview when you finish.
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Work with an agent](https://rawthoughts.in/gazette/work-with-an-agent/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

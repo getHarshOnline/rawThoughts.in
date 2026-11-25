@@ -48,7 +48,7 @@ A **recommendation** proposes one option. A **ranking** orders the choices you s
 
 The task’s rules determine whether Pale may act on the advice or must ask a person. You can follow it, reject it or ask for a decision. Here, following it means starting a delivery investigation through the normal process. Counsel does not assign the work or resend the notice.
 
-Keep what the model advised, what you decided and what the investigation found. If you corrected the advice, record the correction. Pale keeps each call and its result as a record in its genealogy, the history of context, which is what [Reckon](https://causality.in/reckon/) learns from to tell whether the advice helped. A useful later discovery tells you what the investigation found, while the earlier records tell you whether the model's answer was reasonable. [Advice at the decision boundary](https://rawthoughts.in/collections/systems/learning-from-a-recommendation/a-recommendation-is-not-a-mandate/) explores the distinction.
+Keep what the model advised, what you decided and what the investigation found. If you corrected the advice, record the correction. Pale keeps each call and its result as a record in its genealogy, the history of context, which is what [Reckon](https://causality.in/reckon/) (on Causality) learns from to tell whether the advice helped. A useful later discovery tells you what the investigation found, while the earlier records tell you whether the model's answer was reasonable. [Advice at the decision boundary](https://rawthoughts.in/collections/systems/learning-from-a-recommendation/a-recommendation-is-not-a-mandate/) explores the distinction.
 
 <a id="if-no-answer-arrives"></a>
 

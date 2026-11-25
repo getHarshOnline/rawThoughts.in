@@ -82,7 +82,7 @@ I expected more of the routine work to become automated and some forms of human 
 
 And all of that was going to happen after you had won enough distribution to get the opportunity.
 
-That is why a reusable mechanism can matter to a service business. Work done for one engagement may teach the team something it can apply again, without making a client's records or particular design everybody else's property. [DAO Studio's account of turning service work into reusable capability](https://daostudio.in/blog/turning-service-work-into-reusable-capability/) develops that operational question: what can accumulate between engagements, and what must remain with the partner? Reuse can improve the ability to deliver. Distribution still has to earn the next conversation.
+That is why a reusable mechanism can matter to a service business. Work done for one engagement may teach the team something it can apply again, without making a client's records or particular design everybody else's property. [DAO Studio's account of turning service work into reusable capability](https://daostudio.in/blog/turning-service-work-into-reusable-capability/) (on DAO Studio) develops that operational question: what can accumulate between engagements, and what must remain with the partner? Reuse can improve the ability to deliver. Distribution still has to earn the next conversation.
 
 <a id="the-bitter-pill-you-cannot-win-all-distribution"></a>
 
@@ -98,4 +98,4 @@ With limited resources, survival would become a matter of dominating a useful ni
 
 That is the blue pill. Keep playing, get specific about the outcome, earn the trust and survive long enough for the work to compound.
 
-There is another option: [The Red Pill](https://post-agi-economics.org/blog/the-red-pill/). It asks why the framework for exchanging value has to remain organised around jobs and the same competitive game at all. This essay asks how a business survives inside it. The next asks what else we might choose to build.
+There is another option: [The Red Pill](https://post-agi-economics.org/blog/the-red-pill/) (on Post-AGI Economics). It asks why the framework for exchanging value has to remain organised around jobs and the same competitive game at all. This essay asks how a business survives inside it. The next asks what else we might choose to build.

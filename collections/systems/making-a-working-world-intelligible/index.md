@@ -2,8 +2,6 @@ Title: Making a working world intelligible
 
 [Read HTML](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/)
 
-Author: Harsh Joshi
-
 [Pale](https://rawthoughts.in/pale/) is the meta harness, a harness over the coding tools people already use, so that each asks one description of your world what it may do; this journey asks whether that earns its place.
 
 Suppose you return to an equipment purchase after a week away. The comparison was accepted, the budget changed and part of the order arrived. The person waiting for it still cannot do their work. Before you can help, you have to recover how those facts fit together. An agent returning to the same task faces much of the same work. How much of that understanding could survive the interruption?

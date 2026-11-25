@@ -2,8 +2,6 @@ Title: Engineering without filters
 
 [Read HTML](https://rawthoughts.in/)
 
-Author: Harsh Joshi
-
 ![Sunlight falls through a long sequence of rock arches towards a distant gold disc.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/d/c001.webp)
 
 ![Sunlight falls through a long sequence of rock arches towards a distant gold disc.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/m/c001.webp)

@@ -63,3 +63,6 @@ To apply this to your own writing, choose the home in which each argument develo
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Why an article has one home](https://rawthoughts.in/gazette/why-an-article-has-one-home/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

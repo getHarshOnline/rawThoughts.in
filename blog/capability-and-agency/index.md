@@ -12,7 +12,7 @@ A service team adds workers to reduce late orders. Its dashboard then shows more
 
 An AI application might confidently recommend a staffing change from that dashboard and also have the API access to apply it. Its ability to find a pattern, its ability to reason about an intervention and its reach into the rota are three different properties. I find that separation more useful than a single label such as "agentic" or "causal": it tells us which question to test, and what a mistaken answer can actually change.
 
-[Beyond the Mirage](https://causality.in/blog/beyond-the-mirage/) develops the wider proposal: describe intelligence by its depth of causal reasoning and, separately, by how much it can act on the world. Here I want to follow those two questions through one operational decision. What would the team need to know before changing the rota?
+[Beyond the Mirage](https://causality.in/blog/beyond-the-mirage/) (on Causality) develops the wider proposal: describe intelligence by its depth of causal reasoning and, separately, by how much it can act on the world. Here I want to follow those two questions through one operational decision. What would the team need to know before changing the rota?
 
 <a id="three-questions-hiding-in-one-dashboard"></a>
 

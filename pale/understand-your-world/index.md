@@ -63,7 +63,7 @@ The coding host must enforce Pale's permission decisions: a refusal has to preve
 
 ### Use connected applications for their own strengths
 
-[Weave](https://rawthoughts.in/weave/) keeps the organisation's account and work records. [Scope](https://rawthoughts.in/scope/) supplies permitted context for a task, while [Counsel](https://rawthoughts.in/counsel/) provides judgment and memory assistance. [Reckon](https://causality.in/reckon/) runs the evaluation lab, and its design adds the services for investigating whether a changed method helped. What Reckon learns comes from Pale's genealogy, the history of context: an append-only map of references showing where work came from, what it relied on and what followed, with each record staying in the system that owns it.
+[Weave](https://rawthoughts.in/weave/) keeps the organisation's account and work records. [Scope](https://rawthoughts.in/scope/) supplies permitted context for a task, while [Counsel](https://rawthoughts.in/counsel/) provides judgment and memory assistance. [Reckon](https://causality.in/reckon/) (on Causality) runs the evaluation lab, and its design adds the services for investigating whether a changed method helped. What Reckon learns comes from Pale's genealogy, the history of context: an append-only map of references showing where work came from, what it relied on and what followed, with each record staying in the system that owns it.
 
 Integrated requests for Scope's context, Counsel's judgment and Reckon's evaluations pass through Pale. Each receiving application checks the caller's permission and keeps responsibility for its own result. Each product can also be used without the others under its own access rules, except Scope, which works with Pale, Weave or both; adopting one does not require adopting the whole set.
 
@@ -79,11 +79,11 @@ PaleUniverse connects the picture of your world to the source that describes it,
 
 ## The question behind the system
 
-[Building a place to think](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/) explains the motivation: returning to work without having to reconstruct its context each time. Structure takes effort to prepare and maintain, so [the cost of understanding](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/the-cost-of-understanding/) asks whether it repays that effort. [Improving the system between runs](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/improving-the-system-between-runs/) follows how results could inform a change to the method.
+[Building a place to think](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/) (on getHarsh) explains the motivation: returning to work without having to reconstruct its context each time. Structure takes effort to prepare and maintain, so [the cost of understanding](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/the-cost-of-understanding/) asks whether it repays that effort. [Improving the system between runs](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/improving-the-system-between-runs/) follows how results could inform a change to the method.
 
-[MONAD](https://causality.in/monad/) studies what descriptions preserve and when they need to change. [MUON](https://causality.in/muon/) and [HENA](https://causality.in/hena/) explore adaptive units and their collective organisation. These research questions connect to Pale's ambition while the current tools work with an explicit workspace.
+[MONAD](https://causality.in/monad/) (on Causality) studies what descriptions preserve and when they need to change. [MUON](https://causality.in/muon/) (on Causality) and [HENA](https://causality.in/hena/) (on Causality) explore adaptive units and their collective organisation. These research questions connect to Pale's ambition while the current tools work with an explicit workspace.
 
-[Harsh Joshi](https://getharsh.in/about/) is Pale's author, and RTEPL owns the project. Pale comes in two profiles of the same community code, with the same rights: Bare selects the smallest working set of parts, and Curated assembles a reference selection of connected products.
+[Harsh Joshi](https://getharsh.in/about/) (on getHarsh) is Pale's author, and RTEPL owns the project. Pale comes in two profiles of the same community code, with the same rights: Bare selects the smallest working set of parts, and Curated assembles a reference selection of connected products.
 
 <a id="choose-your-next-step"></a>
 
@@ -93,3 +93,6 @@ To embed or extend Pale, read the [developer architecture](https://docs.rawthoug
 
 
 Reading path: [Pale](https://rawthoughts.in/pale/) > [Introduction to Pale](https://rawthoughts.in/pale/understand-your-world/)
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

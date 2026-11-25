@@ -2,8 +2,6 @@ Title: RawFish
 
 [Read HTML](https://rawthoughts.in/rawfish/)
 
-Author: Harsh Joshi
-
 <a id="rawfish"></a>
 
 # RawFish

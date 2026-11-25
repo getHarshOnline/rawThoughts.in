@@ -56,3 +56,6 @@ Open the new preview URL and check the [inline equation and displayed fraction](
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Update the math renderer](https://rawthoughts.in/gazette/update-math-renderer/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

@@ -2,8 +2,6 @@ Title: Gazette
 
 [Read HTML](https://rawthoughts.in/gazette/)
 
-Author: Harsh Joshi
-
 <a id="gazette"></a>
 
 # Gazette
@@ -34,7 +32,7 @@ Among [the products](https://rawthoughts.in/products/), Gazette publishes a body
 
 Take a question a reader brings, such as how a product's design led to its guide. The pieces that develop it, the order that carries it and the crossing into another inquiry are the reader's way through. Gazette gives the editor, command line and connected agents the same account of that structure; [write in VS Code](https://rawthoughts.in/gazette/write-with-feedback/) or [work with an agent](https://rawthoughts.in/gazette/work-with-an-agent/) to see it from the author's side.
 
-Each publication's theme gives it a world, a visual language: this site uses Carrier, for applied systems and consulting, and [MONAD's research](https://causality.in/monad/) uses Lattice, for research and exact notation. Follow the link to see how one thought can cross between distinct publications. [Choose a reading form](https://rawthoughts.in/gazette/change-presentation/) explains the shared foundation and the worlds built on it.
+Each publication's theme gives it a world, a visual language: this site uses Carrier, for applied systems and consulting, and [MONAD's research](https://causality.in/monad/) (on Causality) uses Lattice, for research and exact notation. Follow the link to see how one thought can cross between distinct publications. [Choose a reading form](https://rawthoughts.in/gazette/change-presentation/) explains the shared foundation and the worlds built on it.
 
 1. 
    
@@ -141,3 +139,6 @@ Gazette carries the structure of a body of thought, which a static-site generato
 **Where should I start?**
 
 Start on your own machine. Gazette builds a publication from the sources you choose and rebuilds its local preview as you save. [Create your first publication](https://rawthoughts.in/gazette/first-publication/) takes you from an article to a browser preview. When it is ready, [export the build](https://rawthoughts.in/gazette/review-and-deliver/) for your publishing destination.
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

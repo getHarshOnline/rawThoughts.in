@@ -8,7 +8,7 @@ Author: Harsh Joshi
 
 # How Pale fits together
 
-An agent revises a project guide. The explanation depends on code in one repository, an earlier design decision and an essay that needs the same correction. Each lives somewhere else, and permission to edit the guide does not include permission to publish it. The [connections between writing and projects](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/) have to survive the chat where the change began.
+An agent revises a project guide. The explanation depends on code in one repository, an earlier design decision and an essay that needs the same correction. Each lives somewhere else, and permission to edit the guide does not include permission to publish it. The [connections between writing and projects](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/) (on getHarsh) have to survive the chat where the change began.
 
 [Pale](https://rawthoughts.in/pale/) makes that connected world usable by people and their agents without reconstructing it for every task. The need extends beyond publication: a household shares some responsibilities, while a company serves clients that govern themselves. The engine checks requests against their permissions, connects the systems doing the work, records the path and carries unfinished obligations forward. Each application keeps its own records, while the person can understand how the parts serve the objective.
 
@@ -62,7 +62,7 @@ That is a different job from showing a task card. A card helps someone continue 
 
 ## Separate systems contribute separate answers
 
-[Scope](https://rawthoughts.in/scope/) prepares permitted, fresh context; [Counsel](https://rawthoughts.in/counsel/) offers judgement; and [Reckon](https://causality.in/reckon/), from [Causality](https://causality.in/), evaluates the evidence from a comparison. Those contributions answer different questions in a task: which information may be used, what decision the evidence supports and how the result compares with an alternative. Advice or a favourable evaluation does not give the caller permission to act. The system carrying out the action still checks that permission. [Weave](https://rawthoughts.in/weave/) keeps organisational relationships and accountable work, while [Gazette](https://rawthoughts.in/gazette/) compiles publications. An integration connects the contribution a task needs without making every component a prerequisite or moving its records into Pale.
+[Scope](https://rawthoughts.in/scope/) prepares permitted, fresh context; [Counsel](https://rawthoughts.in/counsel/) offers judgement; and [Reckon](https://causality.in/reckon/) (on Causality), from [Causality](https://causality.in/) (on Causality), evaluates the evidence from a comparison. Those contributions answer different questions in a task: which information may be used, what decision the evidence supports and how the result compares with an alternative. Advice or a favourable evaluation does not give the caller permission to act. The system carrying out the action still checks that permission. [Weave](https://rawthoughts.in/weave/) keeps organisational relationships and accountable work, while [Gazette](https://rawthoughts.in/gazette/) compiles publications. An integration connects the contribution a task needs without making every component a prerequisite or moving its records into Pale.
 
 <a id="work-that-survives-an-interrupted-session"></a>
 
@@ -84,9 +84,9 @@ Some changes reach the description itself. A workspace that records who owns a r
 
 ## When the organising architecture changes
 
-[Causality’s research programme](https://causality.in/about/) connects that problem to [MONAD’s mathematics](https://causality.in/monad/) and to [HENA](https://causality.in/hena/), a swarm of MUON units aimed at the counterfactual rung of the [ACI framework](https://causality.in/blog/beyond-the-mirage/). Pale would stand to HENA as a harness stands to the model it runs: HENA the intelligence, Pale the harness through which it acts. How far that goes remains open.
+[Causality’s research programme](https://causality.in/about/) (on Causality) connects that problem to [MONAD’s mathematics](https://causality.in/monad/) (on Causality) and to [HENA](https://causality.in/hena/) (on Causality), a swarm of MUON units aimed at the counterfactual rung of the [ACI framework](https://causality.in/blog/beyond-the-mirage/) (on Causality). Pale would stand to HENA as a harness stands to the model it runs: HENA the intelligence, Pale the harness through which it acts. How far that goes remains open.
 
-At the unit scale, a [MUON](https://causality.in/muon/) candidate could be compared with the model serving Counsel. At the collective scale, HENA could absorb some coordination expressed directly in Pale, leaving Pale to connect the learned engine to applications, people and consequences. A separate experiment could place such an engine behind a coding harness. Each path would have to preserve what its surrounding system needs and demonstrate what it improves. This gives Pale a reason to keep its interfaces narrow: the architecture beneath the experience can change without asking the person to rebuild their working world around it.
+At the unit scale, a [MUON](https://causality.in/muon/) (on Causality) candidate could be compared with the model serving Counsel. At the collective scale, HENA could absorb some coordination expressed directly in Pale, leaving Pale to connect the learned engine to applications, people and consequences. A separate experiment could place such an engine behind a coding harness. Each path would have to preserve what its surrounding system needs and demonstrate what it improves. This gives Pale a reason to keep its interfaces narrow: the architecture beneath the experience can change without asking the person to rebuild their working world around it.
 
 <a id="returning-to-the-work"></a>
 
@@ -100,3 +100,6 @@ Reading path: [Systems](https://rawthoughts.in/collections/systems/) > [Making a
 Previous in journey: [The cost of understanding](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/the-cost-of-understanding/)
 
 Next in journey: [Records, context and decisions](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/records-and-context/)
+
+
+Source code for [Pale](https://github.com/getHarshOnline/pale) is credited to [Harsh Joshi](https://getharsh.in/about/).

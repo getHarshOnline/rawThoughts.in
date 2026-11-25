@@ -70,3 +70,6 @@ Reopen the same Gazette-enabled window or profile and the publication in `GAZETT
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Write in VS Code](https://rawthoughts.in/gazette/write-with-feedback/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).

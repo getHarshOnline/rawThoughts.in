@@ -78,3 +78,6 @@ For a public release, set up the destination and agree who can approve the publi
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Review and export a publication](https://rawthoughts.in/gazette/review-and-deliver/)
+
+
+Source code for [Gazette](https://github.com/getHarshOnline/gazette) is credited to [Harsh Joshi](https://getharsh.in/about/).
