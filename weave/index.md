@@ -22,7 +22,13 @@ As in [Radio became Spotify](https://rawthoughts.in/blog/radio-became-spotify/),
 
 - [Learn](https://rawthoughts.in/weave/from-request-to-accepted-work/ "Use-case guide and practical applications") 
 
+- [GitHub](https://github.com/getHarshOnline/weave "Explore on GitHub") 
+
 - [Mentions](https://rawthoughts.in/weave/mentions/ "Writing that discusses or references this product") 
+
+- [Licence](https://github.com/getHarshOnline/weave/blob/main/LICENSE "Read the source licence") 
+
+- [Notices](https://github.com/getHarshOnline/weave/blob/main/NOTICE "Read the distribution notices") 
 
 <a id="let-the-commitment-outlast-the-conversation"></a>
 
@@ -92,3 +98,6 @@ Weave has no app of its own; it meets people where they already work: it describ
 **Where should I start?**
 
 Start with [the Weave guide](https://rawthoughts.in/weave/from-request-to-accepted-work/), since Weave is for keeping a commitment clear from request to acceptance. It follows one failed export from the customer's message into two jobs, and shows who takes each one on and who accepts the result.
+
+
+Source code for [Weave](https://github.com/getHarshOnline/weave) is credited to [Harsh Joshi](https://getharsh.in/about/).

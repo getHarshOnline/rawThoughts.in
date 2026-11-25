@@ -117,3 +117,6 @@ No Weave service runs yet. The first version is a headless service, accessed thr
 
 
 Reading path: [Weave](https://rawthoughts.in/weave/) > [From a request to accepted work](https://rawthoughts.in/weave/from-request-to-accepted-work/)
+
+
+Source code for [Weave](https://github.com/getHarshOnline/weave) is credited to [Harsh Joshi](https://getharsh.in/about/).

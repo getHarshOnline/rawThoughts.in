@@ -52,3 +52,6 @@ The account manager can now return to the customer with a useful answer: the rep
 
 
 Reading path: [Weave](https://rawthoughts.in/weave/) > [Run a relationship across several mandates](https://rawthoughts.in/weave/relationships-and-mandates/)
+
+
+Source code for [Weave](https://github.com/getHarshOnline/weave) is credited to [Harsh Joshi](https://getharsh.in/about/).

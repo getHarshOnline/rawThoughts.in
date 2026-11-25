@@ -55,3 +55,6 @@ For developers, [the observation and review domain design](https://docs.rawthoug
 
 
 Reading path: [Weave](https://rawthoughts.in/weave/) > [Review an observation before it becomes work](https://rawthoughts.in/weave/review-an-observation/)
+
+
+Source code for [Weave](https://github.com/getHarshOnline/weave) is credited to [Harsh Joshi](https://getharsh.in/about/).

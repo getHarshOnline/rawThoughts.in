@@ -63,3 +63,6 @@ The two teams also need different parts of the history. The renewal team may nee
 
 
 Reading path: [Practice](https://rawthoughts.in/collections/practice/) > [The relationship inside the account](https://rawthoughts.in/collections/practice/reading-the-relationship/)
+
+
+Source code for [Weave](https://github.com/getHarshOnline/weave) is credited to [Harsh Joshi](https://getharsh.in/about/).

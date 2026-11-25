@@ -62,3 +62,6 @@ The task should close against its agreed result, not because the conversation we
 
 
 Reading path: [Practice](https://rawthoughts.in/collections/practice/) > [Turning a conversation into work](https://rawthoughts.in/collections/practice/turning-conversation-into-work/)
+
+
+Source code for [Weave](https://github.com/getHarshOnline/weave) is credited to [Harsh Joshi](https://getharsh.in/about/).

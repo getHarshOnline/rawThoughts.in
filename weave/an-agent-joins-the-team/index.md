@@ -66,3 +66,6 @@ The point is ordinary teamwork: a person can see who joined, what they may do, w
 
 
 Reading path: [Weave](https://rawthoughts.in/weave/) > [An agent joins the team](https://rawthoughts.in/weave/an-agent-joins-the-team/)
+
+
+Source code for [Weave](https://github.com/getHarshOnline/weave) is credited to [Harsh Joshi](https://getharsh.in/about/).

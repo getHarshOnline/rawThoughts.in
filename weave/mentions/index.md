@@ -13,3 +13,6 @@ Page 1 of 1
 - [Research and the working system](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/research-and-the-working-system/)
 - [Building a place to think](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/)
 
+
+
+Source code for [Weave](https://github.com/getHarshOnline/weave) is credited to [Harsh Joshi](https://getharsh.in/about/).
