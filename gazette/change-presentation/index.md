@@ -57,7 +57,7 @@ For a fuller publication, [Base](https://github.com/getHarshOnline/gazette-theme
 | [Folio](https://github.com/getHarshOnline/gazette-theme-folio) | Institutional inquiry |
 | [Chassis](https://github.com/getHarshOnline/gazette-theme-chassis) | A studio and its products |
 | [Chronicle](https://github.com/getHarshOnline/gazette-theme-chronicle) | A personal publication |
-| [Nocturne](https://github.com/getHarshOnline/gazette-theme-nocturne) | Atmosphere and narrative, dark first |
+| [Nocturne](https://github.com/getHarshOnline/gazette-theme-nocturne) | Atmosphere and narrative |
 
 These themes have their own repositories and setup requirements; they are separate from the Field Notes starter.
 

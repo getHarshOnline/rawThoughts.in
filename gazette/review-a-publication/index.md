@@ -10,7 +10,7 @@ Rights holder: RawThoughts Enterprises Private Limited
 
 Open the generated publication and follow the argument as a reader would. Are the words, figures and qualifications there? Can you reach the next part? Does the page reveal anything that should have stayed private? A successful build gives you something to review. The publisher decides whether that result is ready to release.
 
-This guide covers review and the checks after delivery. Gazette prepares the output for the publisher’s review and explicit confirmation before it pushes the release to the host that serves it. That push has run against local repositories only, so a first public release also needs a hosted destination that its publisher has set up and checked. The [developer release guide](https://docs.rawthoughts.in/gazette/releasing) supplies the commands. You can keep writing and [previewing locally](https://rawthoughts.in/gazette/first-publication/) while preparing for release.
+This guide covers review and the checks after delivery. Gazette prepares the output for the publisher’s review and explicit confirmation before delivery to the configured Git destination. Set up hosting before the first public release so the host can serve the approved files. The [developer release guide](https://docs.rawthoughts.in/gazette/releasing) supplies the commands. You can keep writing and [previewing locally](https://rawthoughts.in/gazette/first-publication/) while preparing for release.
 
 <a id="read-the-result-with-its-sources"></a>
 

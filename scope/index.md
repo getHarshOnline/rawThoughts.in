@@ -24,6 +24,10 @@ People and circumstances belong in that account too. How a colleague prefers a d
 
 - [Mentions](https://rawthoughts.in/scope/mentions/ "Writing that discusses or references this product") 
 
+- [Licence](https://github.com/getHarshOnline/scope/blob/main/LICENSE "Read the source licence") 
+
+- [Notices](https://github.com/getHarshOnline/scope/blob/main/NOTICE "Read the distribution notices") 
+
 <a id="pick-up-the-work-with-its-context-intact"></a>
 
 ## Pick up the work with its context intact

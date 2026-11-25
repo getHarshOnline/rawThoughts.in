@@ -19,6 +19,43 @@
 - [About RawThoughts](https://rawthoughts.in/about/index.md): An applied engineering practice where ideas, systems and operating work inform one another. ([HTML](https://rawthoughts.in/about/))
 
 
+## Projects and products
+
+- [Counsel](https://rawthoughts.in/counsel/index.md): Local judgment where rules leave a choice, with a separate model service to help Scope find useful context. ([HTML](https://rawthoughts.in/counsel/))
+
+- [Gazette](https://rawthoughts.in/gazette/index.md): Maintain one article and let readers reach it on its own, in a collection or in a product guide. Gazette builds connected publications from the writing and sources you choose. ([HTML](https://rawthoughts.in/gazette/))
+
+- [Pale](https://rawthoughts.in/pale/index.md): See which review instructions apply in a repository and what would change before you install them. Pale compiles those instructions and permissions from one workspace. ([HTML](https://rawthoughts.in/pale/))
+
+- [RawFish](https://rawthoughts.in/rawfish/index.md): Try a creator, workplace or civic decision in a simulated setting before anyone decides, then investigate what the reactions suggest. ([HTML](https://rawthoughts.in/rawfish/))
+
+- [Scope](https://rawthoughts.in/scope/index.md): The smallest fresh account of a task, with its sources, decisions, people and open questions intact. ([HTML](https://rawthoughts.in/scope/))
+
+- [Weave](https://rawthoughts.in/weave/index.md): Weave’s design keeps a customer’s failed export linked to its investigation, review and the check that it works again. The same records carry customer relationships and work. ([HTML](https://rawthoughts.in/weave/))
+
+
+## Collections
+
+- [Ideas](https://rawthoughts.in/collections/ideas/index.md): What lets a promising capability become useful work, and where its value reaches people. ([HTML](https://rawthoughts.in/collections/ideas/))
+
+- [Practice](https://rawthoughts.in/collections/practice/index.md): Following responsibility, uncertain outcomes and acceptance through everyday work. ([HTML](https://rawthoughts.in/collections/practice/))
+
+- [Systems](https://rawthoughts.in/collections/systems/index.md): Together the products form one system a person runs, with people deciding, and these journeys take up its parts. ([HTML](https://rawthoughts.in/collections/systems/))
+
+- [Useful compute](https://rawthoughts.in/collections/useful-compute/index.md): Follow AI capacity from the infrastructure promise to the work it can actually complete. ([HTML](https://rawthoughts.in/collections/useful-compute/))
+
+
+## Reading journeys
+
+- [Testing India's AI crossing](https://rawthoughts.in/collections/ideas/india-ai/testing-indias-ai-crossing/index.md): Move from the national opportunity to what the infrastructure must deliver, who holds the claim on its value and what survives a disruption. ([HTML](https://rawthoughts.in/collections/ideas/india-ai/testing-indias-ai-crossing/))
+
+- [Context that helps the work](https://rawthoughts.in/collections/systems/context-that-helps-the-work/index.md): Choose the context a task may use, notice when its premises change, and learn which information helps the work. ([HTML](https://rawthoughts.in/collections/systems/context-that-helps-the-work/))
+
+- [Learning from a recommendation](https://rawthoughts.in/collections/systems/learning-from-a-recommendation/index.md): How evidence changes advice, and how a decision and its outcome can help improve later judgment. ([HTML](https://rawthoughts.in/collections/systems/learning-from-a-recommendation/))
+
+- [Making a working world intelligible](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/index.md): From recovering the meaning of a task to comparing the structure that could help carry it. ([HTML](https://rawthoughts.in/collections/systems/making-a-working-world-intelligible/))
+
+
 ## Developer docs
 
 - [Gazette](https://docs.rawthoughts.in/gazette/overview)
@@ -31,7 +68,7 @@
 
 - [RawFish](https://docs.rawthoughts.in/rawfish/prototype)
 
-- [Full developer documentation index](https://docs.rawthoughts.in/llms.txt)
+- [Developer documentation reading guide](https://docs.rawthoughts.in/llms.txt)
 
 
 

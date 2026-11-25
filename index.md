@@ -2,9 +2,7 @@ Title: Engineering without filters
 
 [Read HTML](https://rawthoughts.in/)
 
-![Sunlight falls through a long sequence of rock arches towards a distant gold disc.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/d/c001.webp)
-
-![Sunlight falls through a long sequence of rock arches towards a distant gold disc.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/m/c001.webp)
+![Sunlight falls through a long sequence of rock arches towards a distant gold disc.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/d/c001.webp) 
 
 <a id="arrival"></a>
 
@@ -14,9 +12,7 @@ Software, research and consulting for businesses finding their next way of worki
 
 [Enter the work](https://rawthoughts.in/#enter-work)
 
-![The rock corridor opens towards a gold disc cut with a crescent.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/d/c121.webp)
-
-![The rock corridor opens towards a gold disc cut with a crescent.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/m/c121.webp)
+![The rock corridor opens towards a gold disc cut with a crescent.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/d/c121.webp) 
 
 <a id="enter-work"></a>
 
@@ -26,9 +22,7 @@ A useful system brings the model, the people and the work around it into the sam
 
 [The work continues](https://rawthoughts.in/#wider-practice)
 
-![A gold disc with a crescent cutout hangs in a shaft of light at the end of the passage.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/d/c361.webp)
-
-![A gold disc with a crescent cutout hangs in a shaft of light at the end of the passage.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/m/c361.webp)
+![A gold disc with a crescent cutout hangs in a shaft of light at the end of the passage.](https://rawthoughts.in/assets/content/rawthoughts/media/film-full/d/c361.webp) 
 
 <a id="wider-practice"></a>
 

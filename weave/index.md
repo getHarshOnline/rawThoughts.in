@@ -6,7 +6,7 @@ Title: Weave
 
 # Weave
 
-Weave keeps the records the other products work from, with customer relationships and work tracking together: the jobs of Salesforce and Jira, connected. People and agents use the same records through the chat rooms, assistants and browser clients where they already work.
+In Weave’s design, a customer’s failed export stays linked to its investigation, review and the check that it works again. Customer relationships and work tracking share the same records, so people and agents can follow the work from the chat rooms, assistants and browser clients they already use.
 
 <a id="one-world-for-relationships-and-work"></a>
 

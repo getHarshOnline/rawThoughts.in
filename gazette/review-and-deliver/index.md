@@ -74,7 +74,7 @@ Give the agent the saved request path and the full path to the output parent. Th
 
 ## Prepare a real publication with its publisher
 
-For a public release, set up the destination and agree who can approve the publication. Gazette has pushed only to local repositories so far, so nothing it builds is live yet. The `deployable` flag alone does not set up hosting. [Review a publication before release](https://rawthoughts.in/gazette/review-a-publication/) follows the checks from the selected output to what readers receive. The [developer release guide](https://docs.rawthoughts.in/gazette/releasing) supplies the current release and recovery procedure. Once the site is public, repeat the reader checks there, including links between product help and developer docs.
+For a public release, set up the destination and agree who can approve the publication. The publication’s host serves the files from that destination. The `deployable` flag selects output for delivery. Set up hosting with its provider. [Review a publication before release](https://rawthoughts.in/gazette/review-a-publication/) follows the checks from the selected output to what readers receive. The [developer release guide](https://docs.rawthoughts.in/gazette/releasing) supplies the current release and recovery procedure. Once the site is public, repeat the reader checks there, including links between product help and developer docs.
 
 
 Reading path: [Gazette](https://rawthoughts.in/gazette/) > [Review and export a publication](https://rawthoughts.in/gazette/review-and-deliver/)

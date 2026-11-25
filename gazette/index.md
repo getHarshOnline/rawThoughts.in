@@ -6,7 +6,7 @@ Title: Gazette
 
 # Gazette
 
-Gazette carries the work outward as publications. Write a body of thought from the whole to its parts: a collection develops one question, a subcollection takes up a branch of it, a journey sets the order an argument needs, and a crossing lets a reader follow the thought into another inquiry. Gazette declares and checks that structure, so readers, search and machines find the work the way you wrote it. A tool such as Astro or Hugo groups pages; Gazette gives each grouping a meaning it carries through the whole publication.
+Write an article once and let readers reach it on its own, in a collection or in a product guide. A collection develops a question, a journey gives the argument its order, and a crossing lets readers follow it into another publication. Gazette checks those relationships and carries them through the site and its machine-readable outputs.
 
 The writing, research and documentation stay with the projects that own them. Gazette compiles the sources you choose into one publication or several connected ones, each with its own address and design. [Create your first publication](https://rawthoughts.in/gazette/first-publication/) to start writing locally, edit an article and preview the result.
 
@@ -25,6 +25,10 @@ Among [the products](https://rawthoughts.in/products/), Gazette publishes a body
 - [GitHub](https://github.com/getHarshOnline/gazette "Explore on GitHub") 
 
 - [Mentions](https://rawthoughts.in/gazette/mentions/ "Writing that discusses or references this product") 
+
+- [Licence](https://github.com/getHarshOnline/gazette/blob/main/LICENSE "Read the source licence") 
+
+- [Notices](https://github.com/getHarshOnline/gazette/blob/main/NOTICE "Read the distribution notices") 
 
 <a id="from-a-question-to-a-connected-publication"></a>
 

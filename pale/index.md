@@ -6,7 +6,7 @@ Title: Pale
 
 # Pale
 
-Pale connects the products around your work to the coding tools you already use. Write your world once: who is involved, what belongs to whom and what each person or agent may do. Pale compiles that description on your own machine, so coding tools such as Claude Code and Codex can ask it at every step what they may do and what they need to know. Your agent helps you write the description, and you return to the work without explaining it all again.
+Open a repository you already use. Pale shows which review instructions apply and what will change before you install them. Define who is involved, what belongs to whom and what each person or agent may do in one workspace. Pale compiles that description on your own machine for tools such as Claude Code and Codex.
 
 <a id="a-harness-over-the-tools-you-already-use"></a>
 
@@ -23,6 +23,10 @@ Among [the products](https://rawthoughts.in/products/), Pale is the part through
 - [GitHub](https://github.com/getHarshOnline/pale "Explore on GitHub") 
 
 - [Mentions](https://rawthoughts.in/pale/mentions/ "Writing that discusses or references this product") 
+
+- [Licence](https://github.com/getHarshOnline/pale/blob/main/LICENSE "Read the source licence") 
+
+- [Notices](https://github.com/getHarshOnline/pale/blob/main/NOTICE "Read the distribution notices") 
 
 <a id="from-your-description-to-work-you-can-return-to"></a>
 

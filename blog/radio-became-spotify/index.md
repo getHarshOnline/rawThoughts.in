@@ -60,7 +60,7 @@ The same problem appears in the writing you are reading. One idea may belong in 
 
 [Gazette](https://rawthoughts.in/gazette/) gives an article one source while allowing several reading paths to lead to it. The writer still has to do the intellectual work: decide who the explanation is for, keep its assumptions visible, and write a different treatment when a different reader needs one. The publishing system can preserve the relationship between those pieces. It cannot decide that two superficially similar arguments mean the same thing.
 
-[Pale](https://rawthoughts.in/pale/) addresses the broader problem of agents working across a declared world: what they are doing, what they can use and which decisions they may make. What I want from it is context and responsibility that carry across the work, so that each faster action does not leave the next person with less understanding.
+Say a second agent takes over a code review. It needs to know which project it is working on, what it may use and how the review is meant to work. [Pale’s](https://rawthoughts.in/pale/) local tools let you inspect those choices and prepare the repository’s instructions. What I want from the broader design is for that context and responsibility to carry when work moves between applications.
 
 <a id="follow-the-change-through"></a>
 

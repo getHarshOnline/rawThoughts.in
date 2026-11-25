@@ -4,7 +4,7 @@ Title: About RawThoughts
 
 An idea becomes clearer when someone has to use it.
 
-RawThoughts brings together software, consulting and writing around a practical question: what would make this idea useful in the world? That can mean composing intelligence around a person’s work, making a business process reliable or finding a better way to describe the problem itself.
+RawThoughts brings together software, consulting and writing around a practical question: what would make this idea useful in the world? That can mean composing intelligence around a person’s work, making a business process reliable or finding a better way to describe the problem itself. We use the work to test what a team needs to remember when a decision or responsibility passes to someone else.
 
 The name began with [Harsh Joshi’s](https://getharsh.in/about/) (on getHarsh) blogging and exploration and became his working identity in March 2020. Since 2023, it has also been the consulting and enterprise face of RawThoughts Enterprises Private Limited (RTEPL). “Without filters” means a question can be examined before it fits a product category or a polished thesis; it still needs judgement.
 
